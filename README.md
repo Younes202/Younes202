@@ -77,6 +77,20 @@ Familiar:
 ![Requests](https://img.shields.io/badge/-Requests-blue?style=flat-square&logo=requests&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-blue?style=flat-square&logo=beautifulsoup&logoColor=white)
 
+## Databases
+### SQL
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### NoSQL
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+
 ## DevOps and Cloud
 
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-blue?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-blue?style=flat-square&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-blue?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github&logoColor=white)
