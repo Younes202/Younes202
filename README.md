@@ -115,15 +115,12 @@ Familiar:
 
 # My Stats
 
- **Total Commits:**
+ **Total Commits this year :**
 
  ![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)
 
-**Total Repositories:** 
 
-![Your Total Repositories](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&include_all_commits=true)
-
-**Total Lines of Code:** 
+**Most Language used :** 
 
 ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
