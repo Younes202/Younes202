@@ -51,4 +51,4 @@ print(about_me)
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white)
 ![Java EE](https://img.shields.io/badge/JAVA%20EE-007396.svg?style=for-the-badge&logo=Java&logoColor=white)
-
+![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
