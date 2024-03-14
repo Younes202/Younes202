@@ -28,10 +28,12 @@ about_me = AboutMe(
 print(about_me)
 ```
 ## Technical skills
-**Proficient:**
+**Programming Languages**
+
+*Proficient:*
 
  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
-**Familiar:**
+*Familiar:*
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
