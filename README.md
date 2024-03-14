@@ -18,12 +18,11 @@ class AboutMe:
         info += f"**Additional Skills:** {', '.join(self.additional_skills)}\n\n"
         return info
 
-# Create an instance of the AboutMe class
 about_me = AboutMe(
     full_name="Younes Sghyer",
     role="Python Developer",
     bio="Passionate about Backend api development and data science.",
-    education=["Self Taught", "Bachelor degree in IT Systems Engineering", "Current Student in master degree"],
+    education=["Self Taught", "Bachelor degree in IT Systems Engineering", "Current Student in master degree IT"]
 )
 
 print(about_me)
