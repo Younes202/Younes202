@@ -88,7 +88,7 @@ PYTHON :
 
 JS : 
 
-![Web3](https://img.shields.io/badge/Web3-3EAAAF?style=for-the-badge&logo=web3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-1572B6?style=for-the-badge&logo=ajax&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-3EAAAF?style=for-the-badge&logo=web3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-1572B6?style=for-the-badge&logo=ajax&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white) ![Vuex](https://img.shields.io/badge/Vuex-34495E?style=for-the-badge&logo=vuex&logoColor=white) ![Vue Router](https://img.shields.io/badge/Vue_Router-3FB27F?style=for-the-badge&logo=vue-dot-js&logoColor=white) ![Vue.js Transitions & Animations](https://img.shields.io/badge/Vue.js_Transitions_&_Animations-41B883?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
 ## Databases
 ### SQL
