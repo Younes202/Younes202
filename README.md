@@ -26,6 +26,7 @@ about_me = AboutMe(
 )
 
 print(about_me)
+```
 ## Technical skills
 - **Proficient:** ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
