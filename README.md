@@ -113,15 +113,17 @@ Familiar:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# My stats
+# My Stats
 
-**Current Projects:**
+## GitHub Stats
+- **Total Commits:** ![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)
+- **Total Repositories:** ![Your Total Repositories](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&include_all_commits=true)
+- **Total Lines of Code:** ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
-* [Sentiment Analysis Project](https://github.com/ybenali/sentiment-analysis)
-* [Machine Learning for Stock Price Prediction](https://github.com/ybenali/stock-price-prediction)
+## Wakatime Stats
+- **Worked this week on:** *Replace with your summary from Wakatime.*
+- **Most Used Languages this week:** *Replace with your summary from Wakatime.*
+- **Last Commit Date:** *Replace with your last commit date from GitHub.*
 
-**Recent Commits:**
-
-* (Manually update this section to reflect your recent commits)
-![Younes's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Younes_SGHYER)
-
+[View My GitHub Profile](https://github.com/Younes202)
+[View My Wakatime Profile](https://wakatime.com/@Younes_SGHYER)
