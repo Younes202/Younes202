@@ -32,7 +32,7 @@ about_me = AboutMe(
 
 print(about_me)
 ```
-### Technical Skills
+# Technical Skills
 
 ## Programming Languages
 
