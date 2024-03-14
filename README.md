@@ -115,10 +115,17 @@ Familiar:
 
 # My Stats
 
-## GitHub Stats
-- **Total Commits:** ![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)
-- **Total Repositories:** ![Your Total Repositories](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&include_all_commits=true)
-- **Total Lines of Code:** ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
+ **Total Commits:**
+
+ ![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)
+
+**Total Repositories:** 
+
+![Your Total Repositories](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&include_all_commits=true)
+
+**Total Lines of Code:** 
+
+![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
 ## Wakatime Stats
 - **Worked this week on:** *Replace with your summary from Wakatime.*
