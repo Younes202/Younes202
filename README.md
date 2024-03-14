@@ -125,9 +125,4 @@ Familiar:
 ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
 ## Wakatime Stats
-- **Worked this week on:** *Replace with your summary from Wakatime.*
-- **Most Used Languages this week:** *Replace with your summary from Wakatime.*
-- **Last Commit Date:** *Replace with your last commit date from GitHub.*
 
-[View My GitHub Profile](https://github.com/Younes202)
-[View My Wakatime Profile](https://wakatime.com/@Younes_SGHYER)
