@@ -1,5 +1,5 @@
 # Welcome to My Profile, I'm Younes ! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+to+My+Profile,+I'm+Younes+!👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes+!+👋)
 ## About Me
 
 ```python
