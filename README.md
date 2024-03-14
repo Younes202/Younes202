@@ -112,3 +112,7 @@ Proficient:
 Familiar:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+# My stats
+
+![Younes's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Younes_SGHYER)
