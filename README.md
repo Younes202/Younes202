@@ -76,3 +76,12 @@ Familiar:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-blue?style=flat-square&logo=requests&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-blue?style=flat-square&logo=beautifulsoup&logoColor=white)
+
+## DevOps and Cloud
+
+![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg)
+![Docker Compose](https://upload.wikimedia.org/wikipedia/commons/3/31/Docker_%28container_engine%29_logo.svg)
+![GitHub Actions](https://upload.wikimedia.org/wikipedia/commons/1/18/GitHub_Actions_Logo.svg)
+![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
+![Cloudflare](https://upload.wikimedia.org/wikipedia/commons/1/1b/CloudFlare_Logo_%282017%29.png)
+![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
