@@ -79,9 +79,5 @@ Familiar:
 
 ## DevOps and Cloud
 
-![Docker](https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg)
-![Docker Compose](https://upload.wikimedia.org/wikipedia/commons/3/31/Docker_%28container_engine%29_logo.svg)
-![GitHub Actions](https://upload.wikimedia.org/wikipedia/commons/1/18/GitHub_Actions_Logo.svg)
-![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg)
-![Cloudflare](https://upload.wikimedia.org/wikipedia/commons/1/1b/CloudFlare_Logo_%282017%29.png)
-![AWS](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-blue?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-blue?style=flat-square&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-blue?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazon-aws&logoColor=white)
+
