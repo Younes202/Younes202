@@ -1,35 +1,50 @@
-# Welcome to [Your Name]'s Profile! 👋
+# Welcome to Younes202's Profile! 👋
 
 ## About Me
 
-Hello! I'm [Your Name], a Python developer passionate about building web applications with FastAPI. I love exploring new technologies and sharing my knowledge with others. My areas of interest include API development, backend architecture, and cloud computing.
+```python
+class Younes202:
+    def __init__(self, name, role, bio, interests):
+        self.name = name
+        self.role = role
+        self.bio = bio
+        self.interests = interests
 
-## Skills
+    def __str__(self):
+        return f"Hi, I'm {self.name}, a {self.role}. {self.bio}. My interests include {', '.join(self.interests)}."
 
-- **Programming Languages:** Python
-- **Web Frameworks:** FastAPI, Flask
-- **Databases:** PostgreSQL, MySQL, SQLite
-- **Tools & Technologies:** Docker, Git, RESTful APIs
-- **Cloud Platforms:** AWS, Google Cloud Platform
+younes = Younes202(
+    name="Younes202",
+    role="Python Developer",
+    bio="Passionate about building web applications with FastAPI. I love exploring new technologies and sharing my knowledge with others.",
+    interests=["API development", "Backend architecture", "Cloud computing"]
+)
 
-## Projects
+print(younes)
+Skills
+
+    Programming Languages: Python
+    Web Frameworks: FastAPI, Flask
+    Databases: PostgreSQL, MySQL, SQLite
+    Tools & Technologies: Docker, Git, RESTful APIs
+    Cloud Platforms: AWS, Google Cloud Platform
+
+Projects
 
 Here are some projects I've worked on:
 
-- [Project 1](link_to_project_1): Brief description
-- [Project 2](link_to_project_2): Brief description
-- [Project 3](link_to_project_3): Brief description
+    Project 1: Brief description
+    Project 2: Brief description
+    Project 3: Brief description
 
 Feel free to explore more on my GitHub repositories!
-
-## Contributions
+Contributions
 
 I actively contribute to open-source projects and enjoy collaborating with other developers. If you have any interesting projects or ideas, feel free to reach out!
+Get in Touch
 
-## Get in Touch
-
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile)
-- Email: youremail@example.com
+    GitHub: Younes202
+    LinkedIn: YourLinkedInProfile
+    Email: youremail@example.com
 
 Let's connect and create something amazing together!
