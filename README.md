@@ -3,48 +3,40 @@
 ## About Me
 
 ```python
-class Younes202:
-    def __init__(self, name, role, bio, interests):
+class AboutMe:
+    def __init__(self, name, role, bio, interests, philosophy, study, education, work_experience, additional_skills):
         self.name = name
         self.role = role
         self.bio = bio
         self.interests = interests
+        self.philosophy = philosophy
+        self.study = study
+        self.education = education
+        self.work_experience = work_experience
+        self.additional_skills = additional_skills
 
     def __str__(self):
-        return f"Hi, I'm {self.name}, a {self.role}. {self.bio}. My interests include {', '.join(self.interests)}."
+        info = f"Hi, I'm {self.name}, a {self.role}.\n\n"
+        info += f"**Bio:** {self.bio}\n\n"
+        info += f"**Interests:** {', '.join(self.interests)}\n\n"
+        info += f"**Philosophy:** {self.philosophy}\n\n"
+        info += f"**Study:** {self.study}\n\n"
+        info += f"**Education:** {self.education}\n\n"
+        info += f"**Work Experience:** {self.work_experience}\n\n"
+        info += f"**Additional Skills:** {', '.join(self.additional_skills)}\n\n"
+        return info
 
-younes = Younes202(
+# Create an instance of the AboutMe class
+about_me = AboutMe(
     name="Younes202",
     role="Python Developer",
     bio="Passionate about building web applications with FastAPI. I love exploring new technologies and sharing my knowledge with others.",
-    interests=["API development", "Backend architecture", "Cloud computing"]
+    interests=["API development", "Backend architecture", "Cloud computing"],
+    philosophy="Continuous learning and improvement are my guiding principles.",
+    study="Currently focusing on mastering backend development with Python and FastAPI.",
+    education="Bachelor's degree in Computer Science",
+    work_experience="2 years of experience in web development with Python and Flask.",
+    additional_skills=["Docker", "Git", "RESTful APIs"]
 )
 
-print(younes)
-Skills
-
-    Programming Languages: Python
-    Web Frameworks: FastAPI, Flask
-    Databases: PostgreSQL, MySQL, SQLite
-    Tools & Technologies: Docker, Git, RESTful APIs
-    Cloud Platforms: AWS, Google Cloud Platform
-
-Projects
-
-Here are some projects I've worked on:
-
-    Project 1: Brief description
-    Project 2: Brief description
-    Project 3: Brief description
-
-Feel free to explore more on my GitHub repositories!
-Contributions
-
-I actively contribute to open-source projects and enjoy collaborating with other developers. If you have any interesting projects or ideas, feel free to reach out!
-Get in Touch
-
-    GitHub: Younes202
-    LinkedIn: YourLinkedInProfile
-    Email: youremail@example.com
-
-Let's connect and create something amazing together!
+print(about_me)
