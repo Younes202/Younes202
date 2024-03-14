@@ -115,6 +115,13 @@ Familiar:
 
 # My stats
 
+**Current Projects:**
+
+* [Sentiment Analysis Project](https://github.com/ybenali/sentiment-analysis)
+* [Machine Learning for Stock Price Prediction](https://github.com/ybenali/stock-price-prediction)
+
+**Recent Commits:**
+
+* (Manually update this section to reflect your recent commits)
 ![Younes's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Younes_SGHYER)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Younes202&count_private=true&show_icons=true&theme=algolia)
