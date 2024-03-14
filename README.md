@@ -116,3 +116,5 @@ Familiar:
 # My stats
 
 ![Younes's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Younes_SGHYER)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Younes202&count_private=true&show_icons=true&theme=algolia)
