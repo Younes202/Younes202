@@ -97,7 +97,7 @@ Familiar:
 
 Proficient:
 
-![Ubuntu 22.04.3 LTS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu 22.04.3 LTS](https://img.shields.io/badge/Ubuntu-22.04.3%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 Familiar:
 
