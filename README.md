@@ -52,3 +52,22 @@ Proficient:
 Familiar:
 
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white) ![Java EE](https://img.shields.io/badge/JAVA%20EE-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white) 
+
+## Libraries
+![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-blue?style=flat-square&logo=scikit-learn&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-blue?style=flat-square&logo=requests&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-blue?style=flat-square&logo=beautifulsoup&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-blue?style=flat-square&logo=nltk&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-blue?style=flat-square&logo=python&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-blue?style=flat-square&logo=python&logoColor=white)
+![uvicorn](https://img.shields.io/badge/-uvicorn-blue?style=flat-square&logo=python&logoColor=white)
+![HTTPX](https://img.shields.io/badge/-HTTPX-blue?style=flat-square&logo=python&logoColor=white)
+![Jinja2](https://img.shields.io/badge/-Jinja2-blue?style=flat-square&logo=jinja&logoColor=white)
+![Starlette](https://img.shields.io/badge/-Starlette-blue?style=flat-square&logo=python&logoColor=white)
+![Redis (aioredis)](https://img.shields.io/badge/-Redis%20(aioredis)-blue?style=flat-square&logo=redis&logoColor=white)
+![Beanie](https://img.shields.io/badge/-Beanie-blue?style=flat-square&logo=python&logoColor=white)
+![Jose](https://img.shields.io/badge/-Jose-blue?style=flat-square&logo=python&logoColor=white)
+
