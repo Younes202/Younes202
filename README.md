@@ -1,5 +1,6 @@
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes!+👋;I'm+a+<img src="https://www.python.org/static/community_logos/python-logo.png" width="30px" height="30px" alt="Python logo">+developer!)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes!;I'm+a+<img src="https://www.python.org/static/community_logos/python-logo.png" width="30px" height="30px" alt="Python logo">+developer!+👋)
+
 
 
 ## About Me
