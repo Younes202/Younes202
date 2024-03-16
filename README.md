@@ -123,10 +123,13 @@ Familiar:
 
 ## Wakatime Stats
 
+## Wakatime Stats
+
 <!--START_SECTION:waka-->
 Total coding time this week: <!-- waka-box start -->
-<!-- waka-box end -->
+<!-- waka-box week="2022-03-13" --><!-- waka-box end -->
+
 Repositories worked on: <!-- waka-box start -->
-<!-- waka-box end -->
+<!-- waka-box repos="true" --><!-- waka-box end -->
 <!--END_SECTION:waka-->
 
