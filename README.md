@@ -1,10 +1,6 @@
 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes!👋;I'm+a+Python+developer!)
 
-
-
-
-
 ## About Me
 
 ```python
@@ -32,6 +28,7 @@ about_me = AboutMe(
 
 print(about_me)
 ```
+
 # Technical Skills
 
 ## Programming Languages
@@ -61,7 +58,7 @@ Familiar:
 
 ## Libraries
 
-PYTHON : 
+PYTHON :
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-blue?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-blue?style=flat-square&logo=python&logoColor=white)
@@ -86,11 +83,12 @@ PYTHON :
 ![Requests](https://img.shields.io/badge/-Requests-blue?style=flat-square&logo=requests&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-blue?style=flat-square&logo=beautifulsoup&logoColor=white)
 
-JS : 
+JS :
 
 ![Web3](https://img.shields.io/badge/Web3-3EAAAF?style=for-the-badge&logo=web3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Ajax](https://img.shields.io/badge/Ajax-1572B6?style=for-the-badge&logo=ajax&logoColor=white) ![Axios](https://img.shields.io/badge/Axios-007ACC?style=for-the-badge&logo=axios&logoColor=white) ![Vuex](https://img.shields.io/badge/Vuex-34495E?style=for-the-badge&logo=vuex&logoColor=white) ![Vue Router](https://img.shields.io/badge/Vue_Router-3FB27F?style=for-the-badge&logo=vue-dot-js&logoColor=white) ![Vue.js Transitions & Animations](https://img.shields.io/badge/Vue.js_Transitions_&_Animations-41B883?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
 ## Databases
+
 ### SQL
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -119,10 +117,22 @@ Familiar:
 
  ![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)
 
-
-**Most Language used :** 
+**Most Language used :**
 
 ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
 ## Wakatime Stats
 
+**Total Coding Time (Last Week):** X hours Y minutes
+
+**Most Used Languages (Last Week):**
+
+1. Python (X%)
+2. JavaScript (Y%)
+3. ...
+
+**Top Projects (Last Week):**
+
+1. Project 1 (X hours)
+2. Project 2 (Y hours)
+3. ...
