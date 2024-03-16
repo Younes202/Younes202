@@ -123,13 +123,9 @@ Familiar:
 
 ## Wakatime Stats
 
-**Total Coding Time (Last Week):** X hours Y minutes
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
-**Most Used Languages (Last Week):**
 
-1. Python (X%)
-2. JavaScript (Y%)
-3. ...
 
 **Top Projects (Last Week):**
 
