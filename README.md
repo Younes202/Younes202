@@ -122,10 +122,12 @@ Familiar:
 ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
 ## Wakatime Stats
-## Wakatime Stats
 
 <!--START_SECTION:waka-->
-```text
-Insert your Wakatime stats here.
+Total coding time this week: 22 hours 30 minutes
+Repositories worked on:
+- YourRepoName1
+- YourRepoName2
+- YourRepoName3
 <!--END_SECTION:waka-->
 
