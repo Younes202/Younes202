@@ -124,10 +124,9 @@ Familiar:
 ## Wakatime Stats
 
 <!--START_SECTION:waka-->
-Total coding time this week: 22 hours 30 minutes
-Repositories worked on:
-- YourRepoName1
-- YourRepoName2
-- YourRepoName3
+Total coding time this week: <!-- waka-box start -->
+<!-- waka-box end -->
+Repositories worked on: <!-- waka-box start -->
+<!-- waka-box end -->
 <!--END_SECTION:waka-->
 
