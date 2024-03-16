@@ -122,13 +122,10 @@ Familiar:
 ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
 ## Wakatime Stats
+## Wakatime Stats
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
+<!--START_SECTION:waka-->
+```text
+Insert your Wakatime stats here.
+<!--END_SECTION:waka-->
 
-
-
-**Top Projects (Last Week):**
-
-1. Project 1 (X hours)
-2. Project 2 (Y hours)
-3. ...
