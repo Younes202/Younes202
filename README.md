@@ -85,15 +85,5 @@ Familiar:
 
 ![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
 
-## Wakatime Stats
 
-## Wakatime Stats
-
-<!--START_SECTION:waka-->
-Total coding time this week: <!-- waka-box start -->
-<!-- waka-box week="2022-03-13" --><!-- waka-box end -->
-
-Repositories worked on: <!-- waka-box start -->
-<!-- waka-box repos="true" --><!-- waka-box end -->
-<!--END_SECTION:waka-->
 
