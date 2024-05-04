@@ -34,55 +34,49 @@ about.Younes()
 
 # Technical Skills
 
-## Programming Languages
+## Data Science
+- ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) Python Programming
+- ![Database](https://img.shields.io/badge/Database%20Management-003B57.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) Database management
+- ![Statistics](https://img.shields.io/badge/Statistical%20Analysis-2E8B57.svg?style=for-the-badge&logo=Statamic&logoColor=white) Statistical Analysis
+- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F425F.svg?style=for-the-badge) Data Analysis
+- ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9ACD32.svg?style=for-the-badge&logo=Tableau&logoColor=white) Data Visualization
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) Machine Learning
+- ![Optimization](https://img.shields.io/badge/Optimization-FFD700.svg?style=for-the-badge) Optimization
+- ![Design API](https://img.shields.io/badge/API%20Development-00BFFF.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
-Proficient:
+## Web Development
+- ![Python Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-007396.svg?style=for-the-badge&logo=Node.js&logoColor=white) Full-Stack Development
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) FastAPI
+- ![Automation](https://img.shields.io/badge/Automation-8A2BE2.svg?style=for-the-badge&logo=Ansible&logoColor=white) Automation
+- ![Testing](https://img.shields.io/badge/Testing-4CAF50.svg?style=for-the-badge&logo=Mocha&logoColor=white) Testing
 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black) ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=R&logoColor=white) 
+## Embedded Systems (formerly IoT)
+- ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6A5ACD.svg?style=for-the-badge) Microcontrollers
+- ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) Raspberry Pi
+- ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) Arduino
+- ![Linux Ubuntu Proficiency](https://img.shields.io/badge/Linux%20Ubuntu%20Proficiency-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) Linux Ubuntu Proficiency
 
- Familiar:
+## Blockchain Technology 
+- ![Blockchain Technology ](https://img.shields.io/badge/Deep%20Dive%20into%20Blockchain-4682B4.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)Blockchain Technology
+- ![Solidity Smart Contract Development](https://img.shields.io/badge/Solidity%20Smart%20Contract%20Development-663399.svg?style=for-the-badge&logo=Ethereum&logoColor=white) Solidity Smart Contract Development
+  
+## DevOps
 
-![Java](https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![C](https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+- ![Containerization](https://img.shields.io/badge/Containerization-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) Containerization
+- ![Virtualization](https://img.shields.io/badge/Virtualization-563D7C.svg?style=for-the-badge&logo=VMware&logoColor=white) Virtualization
+- ![Version Control](https://img.shields.io/badge/Version%20Control-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) Version Control
 
-## Frameworks
+## Other Skills
 
-Proficient:
+- ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white) Jira
+- ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF6347.svg?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) Team Collaboration
+- ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500.svg?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white) Problem Solving
+- ![Cross-Cultural Communication Skills](https://img.shields.io/badge/Cross--Cultural%20Communication%20Skills-2E8B57.svg?style=for-the-badge&logo=Google%20Translate&logoColor=white) Cross-Cultural Communication Skills
+- ![Arabic](https://img.shields.io/badge/Arabic-5C33FF.svg?style=for-the-badge&logo=Arabic&logoColor=white) Arabic
+- ![French](https://img.shields.io/badge/French-0078D4.svg?style=for-the-badge&logo=French&logoColor=white) French
+- ![English](https://img.shields.io/badge/English-217346.svg?style=for-the-badge&logo=English&logoColor=white) English
+- ![German](https://img.shields.io/badge/German-FFD700.svg?style=for-the-badge&logo=German&logoColor=black) German
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white) 
-
-Familiar:
-
-![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white) ![Java EE](https://img.shields.io/badge/JAVA%20EE-007396.svg?style=for-the-badge&logo=Java&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white) 
-
-## UI
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-## Databases
-
-### SQL
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### NoSQL
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-## DevOps and Cloud
-
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-blue?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-blue?style=flat-square&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-blue?style=flat-square&logo=cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-blue?style=flat-square&logo=github&logoColor=white)
-
-## Operation Systems
-
-Proficient:
-
-![Ubuntu 22.04.3 LTS](https://img.shields.io/badge/Ubuntu-22.04.3%20LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-Familiar:
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # My Stats
 
