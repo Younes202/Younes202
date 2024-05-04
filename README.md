@@ -24,11 +24,11 @@ about.Younes()
 ```
 # Last Projects
 
-[Air Quality Analyzing in Dar es Salaam!, Tanzania]([https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-]) 🇹🇿
+[Air Quality Analyzing in Dar es Salaam!, Tanzania](https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-) 🇹🇿
 
-[Predicting Apartment Sale Prices in Buenos Aires!, Argentina]([https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires]) 🇦🇷
+[Predicting Apartment Sale Prices in Buenos Aires!, Argentina](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires) 🇦🇷
 
-[Housing Analysis in Brazil!, Brazil]([https://github.com/Younes202/Housing-Analysis-in-Brazil]) 🇧🇷
+[Housing Analysis in Brazil!, Brazil](https://github.com/Younes202/Housing-Analysis-in-Brazil) 🇧🇷
 
 
 
