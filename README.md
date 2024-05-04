@@ -28,7 +28,7 @@ about.Younes()
 
 [Predicting Apartment Sale Prices in Buenos Aires!, Argentina](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires) 🇦🇷
 
-[Housing Analysis in Brazil!, Brazil](https://github.com/Younes202/Housing-Analysis-in-Brazil) 🇧🇷
+[Housing Analysis in Brazil!](https://github.com/Younes202/Housing-Analysis-in-Brazil) 🇧🇷
 
 
 
