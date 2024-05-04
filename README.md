@@ -72,10 +72,10 @@ about.Younes()
 - ![Cross-Cultural Communication Skills](https://img.shields.io/badge/Cross--Cultural%20Communication%20Skills-2E8B57.svg?style=for-the-badge&logo=Google%20Translate&logoColor=white)
 - 
 ## Languages
-- ![Arabic](https://img.shields.io/badge/Arabic-5C33FF.svg?style=flat-square&logo=Arabic&logoColor=white) Arabic (Native)
-- ![French](https://img.shields.io/badge/French-0078D4.svg?style=flat-square&logo=French&logoColor=white) French (Proficient)
-- ![English](https://img.shields.io/badge/English-217346.svg?style=flat-square&logo=English&logoColor=white) English (Proficient)
-- ![German](https://img.shields.io/badge/German-FFD700.svg?style=flat-square&logo=German&logoColor=black) German (Basic)
+- ![Arabic](https://img.shields.io/badge/Arabic-5C33FF.svg?style=flat-square&logo=Arabic&logoColor=white&label=Arabic%20(Native)) 
+- ![French](https://img.shields.io/badge/French-0078D4.svg?style=flat-square&logo=French&logoColor=white&label=French%20(Proficient))
+- ![English](https://img.shields.io/badge/English-217346.svg?style=flat-square&logo=English&logoColor=white&label=English%20(Proficient)) 
+- ![German](https://img.shields.io/badge/German-FFD700.svg?style=flat-square&logo=German&logoColor=black&label=German%20(Basic))
 
 # My Stats
 
