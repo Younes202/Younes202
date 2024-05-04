@@ -42,26 +42,24 @@ about.Younes()
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9ACD32.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
 - ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 - ![Optimization](https://img.shields.io/badge/Optimization-FFD700.svg?style=for-the-badge) 
-- ![Design API](https://img.shields.io/badge/API%20Development-00BFFF.svg?style=for-the-badge&logo=Swagger&logoColor=white)
+- ![Design API](https://img.shields.io/badge/API%20Design-00BFFF.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ## Web Development
-- ![Python Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Development-007396.svg?style=for-the-badge&logo=Node.js&logoColor=white) 
+- ![Python Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Python-Development-007396.svg?style=for-the-badge&logo=Node.js&logoColor=white) 
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) 
 - ![Automation](https://img.shields.io/badge/Automation-8A2BE2.svg?style=for-the-badge&logo=Ansible&logoColor=white) 
 - ![Testing](https://img.shields.io/badge/Testing-4CAF50.svg?style=for-the-badge&logo=Mocha&logoColor=white) 
 
 ## Embedded Systems (formerly IoT)
 - ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6A5ACD.svg?style=for-the-badge) 
-- ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white) Raspberry Pi
 - ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) 
 - ![Linux Ubuntu Proficiency](https://img.shields.io/badge/Linux%20Ubuntu%20Proficiency-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) 
 
 ## Blockchain Technology 
-- ![Blockchain Technology ](https://img.shields.io/badge/Deep%20Dive%20into%20Blockchain-4682B4.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
+- ![Blockchain Technology ](https://img.shields.io/badge/Blockchain%20Technology-4682B4.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
 - ![Solidity Smart Contract Development](https://img.shields.io/badge/Solidity%20Smart%20Contract%20Development-663399.svg?style=for-the-badge&logo=Ethereum&logoColor=white) 
   
 ## DevOps
-
 - ![Containerization](https://img.shields.io/badge/Containerization-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) 
 - ![Virtualization](https://img.shields.io/badge/Virtualization-563D7C.svg?style=for-the-badge&logo=VMware&logoColor=white) 
 - ![Version Control](https://img.shields.io/badge/Version%20Control-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) 
@@ -72,10 +70,10 @@ about.Younes()
 - ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF6347.svg?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) 
 - ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500.svg?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white) 
 - ![Cross-Cultural Communication Skills](https://img.shields.io/badge/Cross--Cultural%20Communication%20Skills-2E8B57.svg?style=for-the-badge&logo=Google%20Translate&logoColor=white) 
-- ![Arabic](https://img.shields.io/badge/Arabic-5C33FF.svg?style=for-the-badge&logo=Arabic&logoColor=white) 
-- ![French](https://img.shields.io/badge/French-0078D4.svg?style=for-the-badge&logo=French&logoColor=white) 
-- ![English](https://img.shields.io/badge/English-217346.svg?style=for-the-badge&logo=English&logoColor=white)
-- ![German](https://img.shields.io/badge/German-FFD700.svg?style=for-the-badge&logo=German&logoColor=black) 
+- ![Arabic](https://img.shields.io/badge/Native%20-in%20-Arabic-5C33FF.svg?style=for-the-badge&logo=Arabic&logoColor=white) 
+- ![French](https://img.shields.io/badge/Proficient%20-in%20-French-0078D4.svg?style=for-the-badge&logo=French&logoColor=white) 
+- ![English](https://img.shields.io/badge/proficent%20-in%20-English-217346.svg?style=for-the-badge&logo=English&logoColor=white)
+- ![German](https://img.shields.io/badge/Basic%20-in%20-in-German-FFD700.svg?style=for-the-badge&logo=German&logoColor=black) 
 
 
 # My Stats
