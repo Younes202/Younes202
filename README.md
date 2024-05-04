@@ -70,7 +70,7 @@ about.Younes()
 - ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF6347.svg?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) 
 - ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500.svg?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white) 
 - ![Cross-Cultural Communication Skills](https://img.shields.io/badge/Cross--Cultural%20Communication%20Skills-2E8B57.svg?style=for-the-badge&logo=Google%20Translate&logoColor=white)
-- 
+  
 ## Languages
 - ![Arabic](https://img.shields.io/badge/Arabic-Native-5C33FF.svg?style=flat-square&logo=Arabic&logoColor=white) 
 - ![French](https://img.shields.io/badge/French-Proficient-0078D4.svg?style=flat-square&logo=French&logoColor=white)
