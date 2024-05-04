@@ -75,7 +75,7 @@ about.Younes()
 - ![Arabic](https://img.shields.io/badge/Arabic-Native-5C33FF.svg?style=flat-square&logo=Arabic&logoColor=white) 
 - ![French](https://img.shields.io/badge/French-Proficient-0078D4.svg?style=flat-square&logo=French&logoColor=white)
 - ![English](https://img.shields.io/badge/English-Proficient-217346.svg?style=flat-square&logo=English&logoColor=white) 
-- ![German](https://img.shields.io/badge/German-Proficient-FFD700.svg?style=flat-square&logo=German&logoColor=black)
+- ![German](https://img.shields.io/badge/German-Basic-FFD700.svg?style=flat-square&logo=German&logoColor=black)
 
 # My Stats
 
