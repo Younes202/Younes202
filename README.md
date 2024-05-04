@@ -69,12 +69,13 @@ about.Younes()
 - ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white) 
 - ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF6347.svg?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) 
 - ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500.svg?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white) 
-- ![Cross-Cultural Communication Skills](https://img.shields.io/badge/Cross--Cultural%20Communication%20Skills-2E8B57.svg?style=for-the-badge&logo=Google%20Translate&logoColor=white) 
-- ![Arabic](https://img.shields.io/badge/Native%20-in%20-Arabic-5C33FF.svg?style=for-the-badge&logo=Arabic&logoColor=white) 
-- ![French](https://img.shields.io/badge/Proficient%20-in%20-French-0078D4.svg?style=for-the-badge&logo=French&logoColor=white) 
-- ![English](https://img.shields.io/badge/proficent%20-in%20-English-217346.svg?style=for-the-badge&logo=English&logoColor=white)
-- ![German](https://img.shields.io/badge/Basic%20-in%20-in-German-FFD700.svg?style=for-the-badge&logo=German&logoColor=black) 
-
+- ![Cross-Cultural Communication Skills](https://img.shields.io/badge/Cross--Cultural%20Communication%20Skills-2E8B57.svg?style=for-the-badge&logo=Google%20Translate&logoColor=white)
+- 
+## Languages
+- ![Arabic](https://img.shields.io/badge/Arabic-5C33FF.svg?style=flat-square&logo=Arabic&logoColor=white) Arabic (Native)
+- ![French](https://img.shields.io/badge/French-0078D4.svg?style=flat-square&logo=French&logoColor=white) French (Proficient)
+- ![English](https://img.shields.io/badge/English-217346.svg?style=flat-square&logo=English&logoColor=white) English (Proficient)
+- ![German](https://img.shields.io/badge/German-FFD700.svg?style=flat-square&logo=German&logoColor=black) German (Basic)
 
 # My Stats
 
