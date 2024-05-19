@@ -24,7 +24,7 @@ about.Younes()
 ```
 # Last Projects
 
-[Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok)
+[Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok) 🇳🇵
 
 [Air Quality Analyzing in Dar es Salaam!, Tanzania](https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-) 🇹🇿
 
