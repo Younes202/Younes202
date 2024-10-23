@@ -1,5 +1,6 @@
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes!👋;I'm+a+data+Scientist👩🏻‍💻;🌐;I'm+a+data+analyst+📈;I'm+a+web+developer!)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes!👋;I'm+a+Data+Scientist🧑🏻‍💻;🌐;I'm+a+Data+Analyst+📈;I'm+a+Web+Developer!)
+
 
 ## About Me
 
