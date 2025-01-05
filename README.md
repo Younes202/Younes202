@@ -37,7 +37,7 @@
 [View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
 
 
-# Last Recent 6 Projects
+# Last Recent 7 Projects
 
 [Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok) 🇳🇵
 
@@ -51,7 +51,7 @@
 
 [Live-Trading Bot Linked with Binance ](https://github.com/Younes202/LiveTradingBot) 🚀💰
 
-
+[Trading Opportunity Analysis and Telegram Alerts"] (https://github.com/Younes202/TelegramBot-Alerts-Decision) 📈📲
 
 # Technical Skills
 
