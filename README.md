@@ -51,7 +51,7 @@
 
 [Live-Trading Bot Linked with Binance ](https://github.com/Younes202/LiveTradingBot) 🚀💰
 
-[Trading Opportunity Analysis and Telegram Alerts"] (https://github.com/Younes202/TelegramBot-Alerts-Decision) 📈📲
+[Trading Opportunity Analysis and Telegram Alerts"](https://github.com/Younes202/TelegramBot-Alerts-Decision) 📈📲
 
 # Technical Skills
 
