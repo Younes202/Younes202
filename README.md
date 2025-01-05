@@ -125,12 +125,12 @@ about_me.introduce()
 
 
 
-<div align="center">
+<div>
   <!-- Most Used Languages in the center -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&theme=algolia&hide=html&langs_count=10&width=500&height=150" alt="Your Most Used Languages"/>
 </div>
 
-<div align="center">
+<div>
   <!-- Total Commits and GitHub Stars on the same line -->
   <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&width=500&height=350" alt="Your Total Commits"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true&width=500&height=150" alt="GitHub Stars"/>
