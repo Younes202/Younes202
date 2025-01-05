@@ -5,23 +5,48 @@
 ## About Me
 
 ```python
-class about:
-    def __init__(self, full_name, role, bio, education):
+class About:
+    def __init__(self, full_name, roles, bio, education, expertise):
         self.full_name = full_name
-        self.role = role
+        self.roles = roles
         self.bio = bio
         self.education = education
+        self.expertise = expertise
 
-    def Younes(self):
-        print("I'm ", self.full_name, "I'm a", self.role) 
+    def introduce(self):
+        print(f"Hello! I'm {self.full_name}.")
+        print("I specialize in:")
+        for role in self.roles:
+            print(f"- {role}")
+        print("\nA little about me:")
+        print(self.bio)
+        print("\nEducation:")
+        for edu in self.education:
+            print(f"- {edu}")
+        print("\nKey Expertise:")
+        for skill in self.expertise:
+            print(f"- {skill}")
 
-about = About(
+about_me = About(
     full_name="Younes Sghyer",
-    role="Python Developer",
-    bio="Passionate about Backend api development and data science.",
-    education=["Self Taught", "Bachelor degree in IT Systems Engineering", "Master degree Student in IT"]
+    roles=["Data Scientist", "Python Developer", "Crypto Researcher", "Web Developer"],
+    bio="Innovative thinker with a passion for artificial intelligence, blockchain technology, and financial analytics. "
+        "Currently exploring the intersection of AI and decentralized systems to build the future of FinTech.",
+    education=[
+        "Self-Taught Programmer",
+        "Bachelor's Degree in IT Systems Engineering",
+        "Master's Degree Student in IT"
+    ],
+    expertise=[
+        "Machine Learning & AI",
+        "Blockchain Technology",
+        "Data Analytics",
+        "Web Development (Backend APIs)",
+        "Crypto Market Research"
+    ]
 )
-about.Younes()
+
+about_me.introduce()
 ```
 # Last Projects
 
