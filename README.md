@@ -2,7 +2,7 @@
 
 # About Me
     class About:
-        def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
+        def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations, certificates_link):
             self.full_name = full_name
             self.roles = roles
             self.bio = bio
@@ -10,6 +10,7 @@
             self.expertise = expertise
             self.experience = experience
             self.affiliations = affiliations
+            self.certificates_link = certificates_link
     
         def __str__(self):
             return (f"## About Me\n"
@@ -18,7 +19,9 @@
                     f"### Education 🎓: {', '.join(self.education)}\n"
                     f"### Expertise 🛠️: {', '.join(self.expertise)}\n"
                     f"### Experience 🕒: {', '.join(self.experience)}\n"
-                    f"### Affiliations 🤝: {', '.join(self.affiliations)}")
+                    f"### Affiliations 🤝: {', '.join(self.affiliations)}\n"
+                    f"### Certificates 📜: [View my certificates]({self.certificates_link})")
+    
     about_me = About(
         full_name="Younes Sghyer",
         roles=["Data Scientist 🧑‍💻", "Python Developer 🐍", "Web Developer 🌐"],
@@ -26,13 +29,15 @@
         education=["Self-Taught Programmer 📚", "Bachelor's in IT Systems Engineering 🎓", "Master's in Financial Engineering (AI in Finance) 📊"],
         expertise=["Machine Learning 🤖", "Blockchain 🔗", "Data Analytics 📈", "Web Development 🌍"],
         experience=["3 years in web development 💻", "2 years in data science 📊"],
-        affiliations=["Shareholder at FintechFusion (Emirates) 🏢"]
+        affiliations=["Shareholder at FintechFusion (Emirates) 🏢"],
+        certificates_link="[https://your-link.com/certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)"  # Replace with the actual link to your certificates
     )
     
     print(about_me)
 
-- 18 followers · 5 following
-- Organizations: [@FinTechFusion](https://github.com/FinTechFusion)
+
+# Certificates
+
 
 
 # Last Projects
