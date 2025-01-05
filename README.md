@@ -1,36 +1,36 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist+🧑🏻‍💻;Blockchain+Enthusiast+🌐;Crypto+Researcher+📊;Web+Developer+💻;AI/ML+Specialist+🤖)
 
 # About Me
-class About:
-    def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
-        self.full_name = full_name
-        self.roles = roles
-        self.bio = bio
-        self.education = education
-        self.expertise = expertise
-        self.experience = experience
-        self.affiliations = affiliations
-
-    def __str__(self):
-        return (f"## About Me\n"
-                f"**{self.full_name}** | {', '.join(self.roles)}\n\n"
-                f"{self.bio}\n\n"
-                f"### Education: {', '.join(self.education)}\n"
-                f"### Expertise: {', '.join(self.expertise)}\n"
-                f"### Experience: {', '.join(self.experience)}\n"
-                f"### Affiliations: {', '.join(self.affiliations)}")
-
-about_me = About(
-    full_name="Younes Sghyer",
-    roles=["Data Scientist", "Python Developer", "Web Developer"],
-    bio="AI and blockchain enthusiast. Exploring the future of FinTech.",
-    education=["Self-Taught Programmer", "Bachelor's in IT Systems Engineering", "Master's in Financial Engineering (AI in Finance)"],
-    expertise=["Machine Learning", "Blockchain", "Data Analytics", "Web Development"],
-    experience=["3 years in web development", "2 years in data science"],
-    affiliations=["Shareholder at FintechFusion (Emirates)"]
-)
-
-print(about_me)
+    class About:
+        def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
+            self.full_name = full_name
+            self.roles = roles
+            self.bio = bio
+            self.education = education
+            self.expertise = expertise
+            self.experience = experience
+            self.affiliations = affiliations
+    
+        def __str__(self):
+            return (f"## About Me\n"
+                    f"**{self.full_name}** | {', '.join(self.roles)}\n\n"
+                    f"{self.bio}\n\n"
+                    f"### Education: {', '.join(self.education)}\n"
+                    f"### Expertise: {', '.join(self.expertise)}\n"
+                    f"### Experience: {', '.join(self.experience)}\n"
+                    f"### Affiliations: {', '.join(self.affiliations)}")
+    
+    about_me = About(
+        full_name="Younes Sghyer",
+        roles=["Data Scientist", "Python Developer", "Web Developer"],
+        bio="AI and blockchain enthusiast. Exploring the future of FinTech.",
+        education=["Self-Taught Programmer", "Bachelor's in IT Systems Engineering", "Master's in Financial Engineering (AI in Finance)"],
+        expertise=["Machine Learning", "Blockchain", "Data Analytics", "Web Development"],
+        experience=["3 years in web development", "2 years in data science"],
+        affiliations=["Shareholder at FintechFusion (Emirates)"]
+    )
+    
+    print(about_me)
 
 
 
