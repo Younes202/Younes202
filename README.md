@@ -1,17 +1,17 @@
-
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=600&height=40&lines=Welcome+I'm+Younes!👋;I'm+a+Data+Scientist🧑🏻‍💻;🌐;I'm+a+Data+Analyst+📈;I'm+a+Web+Developer!)
-
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist+🧑🏻‍💻;Blockchain+Enthusiast+🌐;Crypto+Researcher+📊;Web+Developer+💻;AI/ML+Specialist+🤖)
 
 ## About Me
 
 ```python
 class About:
-    def __init__(self, full_name, roles, bio, education, expertise):
+    def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
         self.full_name = full_name
         self.roles = roles
         self.bio = bio
         self.education = education
         self.expertise = expertise
+        self.experience = experience
+        self.affiliations = affiliations
 
     def introduce(self):
         print(f"Hello! I'm {self.full_name}.")
@@ -26,6 +26,13 @@ class About:
         print("\nKey Expertise:")
         for skill in self.expertise:
             print(f"- {skill}")
+        print("\nProfessional Experience:")
+        for exp in self.experience:
+            print(f"- {exp}")
+        print("\nAffiliations:")
+        for affiliation in self.affiliations:
+            print(f"- {affiliation}")
+
 
 about_me = About(
     full_name="Younes Sghyer",
@@ -35,7 +42,7 @@ about_me = About(
     education=[
         "Self-Taught Programmer",
         "Bachelor's Degree in IT Systems Engineering",
-        "Master's Degree Student in IT"
+        "Last year Master's Degree Student in Financial Engineering (Focusing on AI in Finance)"
     ],
     expertise=[
         "Machine Learning & AI",
@@ -43,6 +50,13 @@ about_me = About(
         "Data Analytics",
         "Web Development (Backend APIs)",
         "Crypto Market Research"
+    ],
+    experience=[
+        "3 years of professional experience in web development.",
+        "2 years of dedicated experience in the data science domain."
+    ],
+    affiliations=[
+        "Shareholder at FintechFusion Company (Emirates Arabs)."
     ]
 )
 
@@ -64,19 +78,26 @@ about_me.introduce()
 
 ## Data Science
 - ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
-- ![Database](https://img.shields.io/badge/Database%20Management-003B57.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
+- ![Database Management](https://img.shields.io/badge/Database%20Management-003B57.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
 - ![Statistics](https://img.shields.io/badge/Statistical%20Analysis-2E8B57.svg?style=for-the-badge&logo=Statamic&logoColor=white) 
 - ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1F425F.svg?style=for-the-badge) 
 - ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9ACD32.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
 - ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-- ![Optimization](https://img.shields.io/badge/Optimization-FFD700.svg?style=for-the-badge) 
+- ![Optimization](https://img.shields.io/badge/Optimization-FFD700.svg?style=for-the-badge)
+- ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4B0082.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4682B4.svg?style=for-the-badge&logo=OpenCV&logoColor=white)  
+- ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-32CD32.svg?style=for-the-badge&logo=spaCy&logoColor=white)  
+- ![Model Deployment](https://img.shields.io/badge/Model%20Deployment-00BFFF.svg?style=for-the-badge&logo=AWS&logoColor=white)
 - ![Design API](https://img.shields.io/badge/API%20Design-00BFFF.svg?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ## Web Development
 - ![Python Full-Stack Development](https://img.shields.io/badge/Full--Stack%20Python-Development-007396.svg?style=for-the-badge&logo=Node.js&logoColor=white) 
 - ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) 
 - ![Automation](https://img.shields.io/badge/Automation-8A2BE2.svg?style=for-the-badge&logo=Ansible&logoColor=white) 
-- ![Testing](https://img.shields.io/badge/Testing-4CAF50.svg?style=for-the-badge&logo=Mocha&logoColor=white) 
+- ![Testing](https://img.shields.io/badge/Testing-4CAF50.svg?style=for-the-badge&logo=Mocha&logoColor=white)
+- ![Java Development](https://img.shields.io/badge/Java%20Development-007396.svg?style=for-the-badge&logo=Java&logoColor=white)  
 
 ## Embedded Systems (formerly IoT)
 - ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6A5ACD.svg?style=for-the-badge) 
