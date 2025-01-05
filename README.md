@@ -30,14 +30,14 @@
         expertise=["Machine Learning 🤖", "Blockchain 🔗", "Data Analytics 📈", "Web Development 🌍"],
         experience=["3 years in web development 💻", "2 years in data science 📊"],
         affiliations=["Shareholder at FintechFusion (Emirates) 🏢"],
-        certificates_link="[View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)"
+[View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
     )
     
     print(about_me)
 
 
 # Certificates
-
+[View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
 
 
 # Last Projects
