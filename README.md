@@ -30,7 +30,7 @@
         expertise=["Machine Learning 🤖", "Blockchain 🔗", "Data Analytics 📈", "Web Development 🌍"],
         experience=["3 years in web development 💻", "2 years in data science 📊"],
         affiliations=["Shareholder at FintechFusion (Emirates) 🏢"],
-[View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
+Certificates_link=[View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
     )
     
     print(about_me)
