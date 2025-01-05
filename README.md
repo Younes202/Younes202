@@ -2,28 +2,71 @@
 
 # About Me
 
-Hello! I'm **Younes Sghyer**. I'm a passionate **Data Scientist**, **Python Developer**, **Crypto Researcher**, and **Web Developer** with:
+class About:
+    def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
+        self.full_name = full_name
+        self.roles = roles
+        self.bio = bio
+        self.education = education
+        self.expertise = expertise
+        self.experience = experience
+        self.affiliations = affiliations
 
-- **3 years** of experience in web development.
-- **2 years** of experience in data science and AI.
-- Strong background in **Machine Learning**, **Blockchain**, and **Crypto Market Research**.
+    def generate_about_me(self):
+        about_content = f"## About Me\n\nHello! I'm **{self.full_name}**. I specialize in:\n"
+        
+        for role in self.roles:
+            about_content += f"- {role}\n"
+        
+        about_content += f"\nA little about me:\n{self.bio}\n\n### Education:\n"
+        for edu in self.education:
+            about_content += f"- {edu}\n"
 
-Currently exploring the intersection of AI and decentralized systems to revolutionize FinTech.
+        about_content += f"\n### Key Expertise:\n"
+        for skill in self.expertise:
+            about_content += f"- {skill}\n"
+        
+        about_content += f"\n### Professional Experience:\n"
+        for exp in self.experience:
+            about_content += f"- {exp}\n"
 
-### Education:
-- **Self-Taught Programmer**
-- **Bachelor's Degree** in IT Systems Engineering
-- **Master's Degree (in progress)** in Financial Engineering (Focusing on AI in Finance)
+        about_content += f"\n### Professional Affiliations:\n"
+        for affiliation in self.affiliations:
+            about_content += f"- {affiliation}\n"
+        
+        return about_content
 
-### Key Expertise:
-- Machine Learning & AI
-- Blockchain Technology
-- Data Analytics
-- Web Development (Backend APIs)
-- Crypto Market Research
 
-### Professional Affiliations:
-- **Shareholder at FintechFusion** (Emirates, UAE)
+# Example usage:
+about_me = About(
+    full_name="Younes Sghyer",
+    roles=["Data Scientist", "Python Developer", "Crypto Researcher", "Web Developer"],
+    bio="Innovative thinker with a passion for artificial intelligence, blockchain technology, and financial analytics. "
+        "Currently exploring the intersection of AI and decentralized systems to build the future of FinTech.",
+    education=[
+        "Self-Taught Programmer",
+        "Bachelor's Degree in IT Systems Engineering",
+        "Last year Master's Degree Student in Financial Engineering (Focusing on AI in Finance)"
+    ],
+    expertise=[
+        "Machine Learning & AI",
+        "Blockchain Technology",
+        "Data Analytics",
+        "Web Development (Backend APIs)",
+        "Crypto Market Research"
+    ],
+    experience=[
+        "3 years of professional experience in web development.",
+        "2 years of dedicated experience in the data science domain."
+    ],
+    affiliations=[
+        "Shareholder at FintechFusion Company (Emirates Arabs)."
+    ]
+)
+
+# This will generate the "About Me" content dynamically
+print(about_me.generate_about_me())
+
 
 # Last Projects
 
