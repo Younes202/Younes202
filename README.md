@@ -1,67 +1,30 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist+🧑🏻‍💻;Blockchain+Enthusiast+🌐;Crypto+Researcher+📊;Web+Developer+💻;AI/ML+Specialist+🤖)
 
-## About Me
+# About Me
 
-```python
-class About:
-    def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
-        self.full_name = full_name
-        self.roles = roles
-        self.bio = bio
-        self.education = education
-        self.expertise = expertise
-        self.experience = experience
-        self.affiliations = affiliations
+Hello! I'm **Younes Sghyer**. I'm a passionate **Data Scientist**, **Python Developer**, **Crypto Researcher**, and **Web Developer** with:
 
-    def introduce(self):
-        print(f"Hello! I'm {self.full_name}.")
-        print("I specialize in:")
-        for role in self.roles:
-            print(f"- {role}")
-        print("\nA little about me:")
-        print(self.bio)
-        print("\nEducation:")
-        for edu in self.education:
-            print(f"- {edu}")
-        print("\nKey Expertise:")
-        for skill in self.expertise:
-            print(f"- {skill}")
-        print("\nProfessional Experience:")
-        for exp in self.experience:
-            print(f"- {exp}")
-        print("\nAffiliations:")
-        for affiliation in self.affiliations:
-            print(f"- {affiliation}")
+- **3 years** of experience in web development.
+- **2 years** of experience in data science and AI.
+- Strong background in **Machine Learning**, **Blockchain**, and **Crypto Market Research**.
 
+Currently exploring the intersection of AI and decentralized systems to revolutionize FinTech.
 
-about_me = About(
-    full_name="Younes Sghyer",
-    roles=["Data Scientist", "Python Developer", "Crypto Researcher", "Web Developer"],
-    bio="Innovative thinker with a passion for artificial intelligence, blockchain technology, and financial analytics. "
-        "Currently exploring the intersection of AI and decentralized systems to build the future of FinTech.",
-    education=[
-        "Self-Taught Programmer",
-        "Bachelor's Degree in IT Systems Engineering",
-        "Last year Master's Degree Student in Financial Engineering (Focusing on AI in Finance)"
-    ],
-    expertise=[
-        "Machine Learning & AI",
-        "Blockchain Technology",
-        "Data Analytics",
-        "Web Development (Backend APIs)",
-        "Crypto Market Research"
-    ],
-    experience=[
-        "3 years of professional experience in web development.",
-        "2 years of dedicated experience in the data science domain."
-    ],
-    affiliations=[
-        "Shareholder at FintechFusion Company (Emirates Arabs)."
-    ]
-)
+### Education:
+- **Self-Taught Programmer**
+- **Bachelor's Degree** in IT Systems Engineering
+- **Master's Degree (in progress)** in Financial Engineering (Focusing on AI in Finance)
 
-about_me.introduce()
-```
+### Key Expertise:
+- Machine Learning & AI
+- Blockchain Technology
+- Data Analytics
+- Web Development (Backend APIs)
+- Crypto Market Research
+
+### Professional Affiliations:
+- **Shareholder at FintechFusion** (Emirates, UAE)
+
 # Last Projects
 
 [Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok) 🇳🇵
