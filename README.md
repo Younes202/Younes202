@@ -121,7 +121,7 @@ about_me.introduce()
 - ![German](https://img.shields.io/badge/German-Basic-FFD700.svg?style=flat-square&logo=German&logoColor=black)
 
 
-### **My Stats**  
+# My Stats  
 
 
 
