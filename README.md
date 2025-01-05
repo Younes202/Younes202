@@ -1,7 +1,6 @@
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist+🧑🏻‍💻;Blockchain+Enthusiast+🌐;Crypto+Researcher+📊;Web+Developer+💻;AI/ML+Specialist+🤖)
 
 # About Me
-
 class About:
     def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
         self.full_name = full_name
@@ -12,60 +11,27 @@ class About:
         self.experience = experience
         self.affiliations = affiliations
 
-    def generate_about_me(self):
-        about_content = f"## About Me\n\nHello! I'm **{self.full_name}**. I specialize in:\n"
-        
-        for role in self.roles:
-            about_content += f"- {role}\n"
-        
-        about_content += f"\nA little about me:\n{self.bio}\n\n### Education:\n"
-        for edu in self.education:
-            about_content += f"- {edu}\n"
+    def __str__(self):
+        return (f"## About Me\n"
+                f"**{self.full_name}** | {', '.join(self.roles)}\n\n"
+                f"{self.bio}\n\n"
+                f"### Education: {', '.join(self.education)}\n"
+                f"### Expertise: {', '.join(self.expertise)}\n"
+                f"### Experience: {', '.join(self.experience)}\n"
+                f"### Affiliations: {', '.join(self.affiliations)}")
 
-        about_content += f"\n### Key Expertise:\n"
-        for skill in self.expertise:
-            about_content += f"- {skill}\n"
-        
-        about_content += f"\n### Professional Experience:\n"
-        for exp in self.experience:
-            about_content += f"- {exp}\n"
-
-        about_content += f"\n### Professional Affiliations:\n"
-        for affiliation in self.affiliations:
-            about_content += f"- {affiliation}\n"
-        
-        return about_content
-
-
-# Example usage:
 about_me = About(
     full_name="Younes Sghyer",
-    roles=["Data Scientist", "Python Developer", "Crypto Researcher", "Web Developer"],
-    bio="Innovative thinker with a passion for artificial intelligence, blockchain technology, and financial analytics. "
-        "Currently exploring the intersection of AI and decentralized systems to build the future of FinTech.",
-    education=[
-        "Self-Taught Programmer",
-        "Bachelor's Degree in IT Systems Engineering",
-        "Last year Master's Degree Student in Financial Engineering (Focusing on AI in Finance)"
-    ],
-    expertise=[
-        "Machine Learning & AI",
-        "Blockchain Technology",
-        "Data Analytics",
-        "Web Development (Backend APIs)",
-        "Crypto Market Research"
-    ],
-    experience=[
-        "3 years of professional experience in web development.",
-        "2 years of dedicated experience in the data science domain."
-    ],
-    affiliations=[
-        "Shareholder at FintechFusion Company (Emirates Arabs)."
-    ]
+    roles=["Data Scientist", "Python Developer", "Web Developer"],
+    bio="AI and blockchain enthusiast. Exploring the future of FinTech.",
+    education=["Self-Taught Programmer", "Bachelor's in IT Systems Engineering", "Master's in Financial Engineering (AI in Finance)"],
+    expertise=["Machine Learning", "Blockchain", "Data Analytics", "Web Development"],
+    experience=["3 years in web development", "2 years in data science"],
+    affiliations=["Shareholder at FintechFusion (Emirates)"]
 )
 
-# This will generate the "About Me" content dynamically
-print(about_me.generate_about_me())
+print(about_me)
+
 
 
 # Last Projects
