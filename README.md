@@ -99,11 +99,6 @@ about_me.introduce()
 - ![Testing](https://img.shields.io/badge/Testing-4CAF50.svg?style=for-the-badge&logo=Mocha&logoColor=white)
 - ![Java Development](https://img.shields.io/badge/Java%20Development-007396.svg?style=for-the-badge&logo=Java&logoColor=white)  
 
-## Embedded Systems (formerly IoT)
-- ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-6A5ACD.svg?style=for-the-badge) 
-- ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) 
-- ![Linux Ubuntu Proficiency](https://img.shields.io/badge/Linux%20Ubuntu%20Proficiency-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) 
-
 ## Blockchain Technology 
 - ![Blockchain Technology ](https://img.shields.io/badge/Blockchain%20Technology-4682B4.svg?style=for-the-badge&logo=Bitcoin&logoColor=white)
 - ![Solidity Smart Contract Development](https://img.shields.io/badge/Solidity%20Smart%20Contract%20Development-663399.svg?style=for-the-badge&logo=Ethereum&logoColor=white) 
@@ -114,7 +109,6 @@ about_me.introduce()
 - ![Version Control](https://img.shields.io/badge/Version%20Control-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) 
 
 ## Other Skills
-
 - ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white) 
 - ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF6347.svg?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white) 
 - ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500.svg?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white) 
@@ -126,15 +120,19 @@ about_me.introduce()
 - ![English](https://img.shields.io/badge/English-Proficient-217346.svg?style=flat-square&logo=English&logoColor=white) 
 - ![German](https://img.shields.io/badge/German-Basic-FFD700.svg?style=flat-square&logo=German&logoColor=black)
 
-# My Stats
 
- **Total Commits this year :**
+### **My Stats**  
 
- ![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)
+**Total Commits This Year:**  
+![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)  
 
-**Most Language used :**
+**Most Used Languages:**  
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)  
 
-![Your Total Lines of Code](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)
+**Additional Stats:**  
+- **Total Stars Gained:**  
+![GitHub Stars](https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true)  
 
-
+- **Contribution Graph:**  
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Younes202&theme=react-dark&hide_border=true&area=true)  
 
