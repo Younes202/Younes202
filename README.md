@@ -124,15 +124,12 @@ about_me.introduce()
 ### **My Stats**  
 
 **Total Commits This Year:**  
-![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs)  
+![Your Total Commits](https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&width=500&height=150)  
 
 **Most Used Languages:**  
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia)  
+![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&hide=html&layout=compact&theme=algolia&width=500&height=150)  
 
-**Additional Stats:**  
-- **Total Stars Gained:**  
-![GitHub Stars](https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true)  
+**Total Stars Gained:**  
+![GitHub Stars](https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true&width=500&height=150)  
 
-- **Contribution Graph:**  
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Younes202&theme=react-dark&hide_border=true&area=true)  
 
