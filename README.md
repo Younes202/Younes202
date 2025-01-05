@@ -37,7 +37,7 @@
 [View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
 
 
-# Last Projects
+# Last Recent 6 Projects
 
 [Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok) 🇳🇵
 
@@ -46,6 +46,10 @@
 [Prediction of Apartment Sale Prices in Buenos Aires!, Argentina](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires) 🇦🇷
 
 [Housing Analysis in Brazil!](https://github.com/Younes202/Housing-Analysis-in-Brazil) 🇧🇷
+
+[Backtesting Framework for Evaluating Optimal Trading Strategy]([https://github.com/Younes202/Backtester-Framework))  📊💡
+
+[Live-Trading Bot Linked with Binance ](https://github.com/Younes202/LiveTradingBot) 🚀💰
 
 
 
