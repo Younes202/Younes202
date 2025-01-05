@@ -47,7 +47,7 @@
 
 [Housing Analysis in Brazil!](https://github.com/Younes202/Housing-Analysis-in-Brazil) 🇧🇷
 
-[Backtesting Framework for Evaluating Optimal Trading Strategy]([https://github.com/Younes202/Backtester-Framework))  📊💡
+[Backtesting Framework for Evaluating Optimal Trading Strategy](https://github.com/Younes202/Backtester-Framework)  📊💡
 
 [Live-Trading Bot Linked with Binance ](https://github.com/Younes202/LiveTradingBot) 🚀💰
 
