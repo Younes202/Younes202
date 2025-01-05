@@ -19,7 +19,6 @@ class About:
                 f"### Expertise 🛠️: {', '.join(self.expertise)}\n"
                 f"### Experience 🕒: {', '.join(self.experience)}\n"
                 f"### Affiliations 🤝: {', '.join(self.affiliations)}")
-
 about_me = About(
     full_name="Younes Sghyer",
     roles=["Data Scientist 🧑‍💻", "Python Developer 🐍", "Web Developer 🌐"],
