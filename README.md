@@ -49,11 +49,11 @@
 
 [Backtesting Framework for Evaluating Optimal Trading Strategy](https://github.com/Younes202/Backtester-Framework)  📊💡
 
-[Sentiment Analysis Detection"](https://github.com/Younes202/Sentiment-Analysis) 📊💬
+[Sentiment Analysis Detection](https://github.com/Younes202/Sentiment-Analysis) 📊💬
 
-[Trading Opportunity Analysis and Telegram Alerts"](https://github.com/Younes202/TelegramBot-Alerts-Decision) 📈📲
+[Trading Opportunity Analysis and Telegram Alerts](https://github.com/Younes202/TelegramBot-Alerts-Decision) 📈📲
 
-[Live-Trading Bot Linked with Binance ](https://github.com/Younes202/LiveTradingBot) 🚀💰
+[Live-Trading Bot Linked with Binance](https://github.com/Younes202/LiveTradingBot) 🚀💰
 
 
 # Technical Skills
