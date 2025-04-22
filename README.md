@@ -98,7 +98,6 @@ I specialize in building intelligent systems and scalable solutions, with a stro
   <!-- Total Commits, GitHub Stars, and Contributions on the same line -->
   <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs&width=500&height=350" alt="Your Total Commits"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true&width=500&height=150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=prs,issues&hide_title=true&hide=contribs&width=500&height=350" alt="Additional Stats"/>
 </div>
 
 
