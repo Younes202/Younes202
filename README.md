@@ -1,30 +1,31 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+Data+Scientist+🧑🏻‍💻;I'm+Web+Developer+💻)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍)
 
+## About Me
 
-I am experienced in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models, creating web applications, or exploring new technologies, I am always looking for innovative ways to solve real-world problems.
+Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Python Backend Developer** 🐍, and tech enthusiast driven by the future of **AI** 🤖, **Blockchain** 🔗, and **FinTech** 💸. 🚀
 
-
+I specialize in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models 📊, creating web applications 🐍, or exploring new technologies 🔍, I am always looking for innovative ways to solve real-world problems.
 
 ### 🎓 Education
 - 🎓 Bachelor's in IT Systems Engineering  
-- 📊 Master's in Financial Engineering (ongoing remotely)  
-- 📚 Self-taught programmer with a deep curiosity for emerging tech
-- 🏆 More than 10 professional certificates in various fields, including Data Science, web Frameworks, FinTech .... 
-
+- 📊 Master's in Financial Engineering (AI in Finance)  
+- 📚 Self-taught programmer with a deep curiosity for emerging tech  
+- 🏆 More than 10 professional certificates in various fields, including Data Science, AI, Blockchain, and FinTech
 
 ### 🛠️ Expertise
 - 🤖 Machine Learning & AI  
 - 📈 Data Analysis & Visualization  
-- 🌍 Web Development (Full Stack)
-- 💸 FinTech   
+- 🐍 Web Development (Django, Flask, Python-based frameworks)  
+- 💸 FinTech & Blockchain  
 
 ### 🕒 Experience
-- 💻 3 years in Web Development and data analysis as a **Freelancer**  
-- 📊 1 year in Fintech Data Science at **FintechFusion**  
+- 💻 3 years in Web Development as a **Freelancer**  
+- 📊 1 year in Data Science & AI Applications at **FintechFusion**  
 
 ### 🤝 Affiliations
-- 🏢 Shareholder on a small project for devlopping intelligent trading bots systems at  **FintechFusion (Emirates)**
+- 🏢 Shareholder at **FintechFusion (Emirates)**
 
+---
 
 
 # Certificates
