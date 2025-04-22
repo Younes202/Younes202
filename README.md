@@ -1,36 +1,29 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist+🧑🏻‍💻;Blockchain+Enthusiast+🌐;Crypto+Researcher+📊;Web+Developer+💻;AI/ML+Specialist+🤖)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist🤖+🧑Python+Backend +Developer;💻)
 
-# About Me
-    class About:
-        def __init__(self, full_name, roles, bio, education, expertise, experience, affiliations):
-            self.full_name = full_name
-            self.roles = roles
-            self.bio = bio
-            self.education = education
-            self.expertise = expertise
-            self.experience = experience
-            self.affiliations = affiliations
-    
-        def __str__(self):
-            return (f"## About Me\n"
-                    f"**{self.full_name}** | {', '.join(self.roles)} 🚀\n\n"
-                    f"{self.bio} 💡\n\n"
-                    f"### Education 🎓: {', '.join(self.education)}\n"
-                    f"### Expertise 🛠️: {', '.join(self.expertise)}\n"
-                    f"### Experience 🕒: {', '.join(self.experience)}\n"
-                    f"### Affiliations 🤝: {', '.join(self.affiliations)}\n"
-    
-    about_me = About(
-        full_name="Younes Sghyer",
-        roles=["Data Scientist 🧑‍💻", "Python Developer 🐍", "Web Developer 🌐"],
-        bio="AI and blockchain enthusiast. Exploring the future of FinTech. 🚀",
-        education=["Self-Taught Programmer 📚", "Bachelor's in IT Systems Engineering 🎓", "Master's in Financial Engineering (AI in Finance) 📊"],
-        expertise=["Machine Learning 🤖", "Blockchain 🔗", "Data Analytics 📈", "Web Development 🌍"],
-        experience=["3 years in web development 💻", "2 years in data science 📊"],
-        affiliations=["Shareholder at FintechFusion (Emirates) 🏢"]
-    )
-    
-    print(about_me)
+I am experienced in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models, creating web applications, or exploring new technologies, I am always looking for innovative ways to solve real-world problems.
+
+
+
+### 🎓 Education
+- 🎓 Bachelor's in IT Systems Engineering  
+- 📊 Master's in Financial Engineering (ongoing remotely)  
+- 📚 Self-taught programmer with a deep curiosity for emerging tech
+- 🏆 More than 10 professional certificates in various fields, including Data Science, web Frameworks, FinTech .... 
+
+
+### 🛠️ Expertise
+- 🤖 Machine Learning & AI  
+- 📈 Data Analysis & Visualization  
+- 🌍 Web Development (Full Stack)
+- 💸 FinTech   
+
+### 🕒 Experience
+- 💻 3 years in Web Development and data analysis as a **Freelancer**  
+- 📊 1 year in Fintech Data Science at **FintechFusion**  
+
+### 🤝 Affiliations
+- 🏢 Shareholder on a small project for devlopping intelligent trading bots systems at  **FintechFusion (Emirates)**
+
 
 
 # Certificates
