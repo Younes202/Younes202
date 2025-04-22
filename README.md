@@ -23,7 +23,7 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 - 📊 1 year in Data Science & AI Applications at **FintechFusion**  
 
 ### 🤝 Affiliations
-- 🏢 Shareholder at **FintechFusion (Emirates)**
+- 🏢 Shareholder at **FintechFusion (Emirates)** – Focused on developing intelligent trading bots by merging Data Science and Financial Engineering solutions.
 
 ---
 
