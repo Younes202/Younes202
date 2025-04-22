@@ -84,6 +84,7 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 - ![French](https://img.shields.io/badge/French-Proficient-0078D4.svg?style=flat-square&logo=French&logoColor=white)
 - ![English](https://img.shields.io/badge/English-Proficient-217346.svg?style=flat-square&logo=English&logoColor=white)
 - ![German](https://img.shields.io/badge/German-Basic-FFD700.svg?style=flat-square&logo=German&logoColor=black)
+- ![Chinese](https://img.shields.io/badge/Chinese-Basic-FFD700.svg?style=flat-square&logo=Chinese&logoColor=black)
 
 
 
