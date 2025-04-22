@@ -7,10 +7,10 @@ Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Pyth
 I specialize in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models 📊, creating web applications 🐍, or exploring new technologies 🔍, I am always looking for innovative ways to solve real-world problems.
 
 ### 🎓 Education
-- 🎓 Bachelor's in IT Systems Engineering  
 - 📊 Master's in Financial Engineering (AI in Finance)  
+- 🎓 Bachelor's in IT Systems Engineering  
 - 📚 Self-taught programmer with a deep curiosity for emerging tech  
-- 🏆 More than 10 professional certificates in various fields, including Data Science, AI, Blockchain, and FinTech
+- 🏆 10+ professional certificates in Data Science, AI, Blockchain, and FinTech  
 
 ### 🛠️ Expertise
 - 🤖 Machine Learning & AI  
