@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Python Backend Developer** 🐍, and tech enthusiast driven by the future of **AI** 🤖, **Blockchain** 🔗, and **FinTech** 💸. 🚀
+Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Python Backend Developer** 🐍, and tech enthusiast driven by the future of **AI** 🤖,**FinTech** 💸. 🚀
 
 I specialize in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models 📊, creating web applications 🐍, or exploring new technologies 🔍, I am always looking for innovative ways to solve real-world problems.
 
