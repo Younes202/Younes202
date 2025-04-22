@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Data+Scientist+🧑🏻‍💻;Web+Developer+💻)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+Data+Scientist+🧑🏻‍💻;I'm+Web+Developer+💻)
 
 
 I am experienced in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models, creating web applications, or exploring new technologies, I am always looking for innovative ways to solve real-world problems.
