@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍;Quantitative+Finance+Analyst+📈&cacheBust=1)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍;Quantitative+Finance+Analyst+📈)
 
 ## 🚀 About Me
 
@@ -9,27 +9,28 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ---
 
 ## 📊 Performance & Analysis Stats
+[cite_start]*Impact metrics derived from my MSCFE 632: Machine Learning in Finance group project[cite: 4]:*
 
 | Metric | Value | Impact |
 | :--- | :--- | :--- |
-| **Prediction Accuracy** | **+56% Improvement** | Optimized via Ensemble Learning (Random Forest) |
-| **Directional Accuracy** | **51.95%** | Achieved in Binary Classification for NQ100 futures |
-| **Multi-Class Accuracy** | **65.80%** | Overall accuracy in market trend categorization |
-| **Buy Signal Win Rate** | **55.9%** | Statistical edge found in high-conviction trade setups |
+| **Prediction Accuracy** | **+56% Improvement** | [cite_start]Optimized via Ensemble Learning (Random Forest) [cite: 31, 33] |
+| **Directional Accuracy** | **51.95%** | [cite_start]Achieved in Binary Classification for NQ100 futures [cite: 134, 135] |
+| **Multi-Class Accuracy** | **65.80%** | [cite_start]Overall accuracy in market trend categorization [cite: 142] |
+| **Buy Signal Win Rate** | **55.9%** | [cite_start]Statistical edge found in high-conviction trade setups [cite: 140] |
 
 ---
 
 ### 🎓 Education
-- 📊 **Master's in Financial Engineering** (AI in Finance)
+- [cite_start]📊 **Master's in Financial Engineering** (AI in Finance) [cite: 4]
 - 🎓 **Bachelor's in IT Systems Engineering**
 - 📚 **Self-taught programmer** with a deep curiosity for emerging tech
 - 🏆 **10+ professional certificates** in Data Science, AI, Blockchain, and FinTech
 
 ### 🛠️ Expertise
-- 🤖 **Machine Learning & AI:** LASSO Regression, PCA, Classification Trees
-- 📈 **Data Analysis & Visualization:** Power BI Storytelling, Feature Selection, Regularization
-- 🐍 **Web Development:** Django, Flask, FastAPI, Python-based frameworks
-- 💸 **FinTech & Blockchain:** Quantitative modeling and automated trading strategies
+- [cite_start]🤖 **Machine Learning & AI:** LASSO Regression, Principal Component Analysis (PCA), and Classification Trees[cite: 31].
+- [cite_start]📈 **Data Analysis & Visualization:** Power BI Storytelling, Feature Selection, and Regularization[cite: 46, 51].
+- 🐍 **Web Development:** Django, Flask, FastAPI, and Python-based frameworks.
+- [cite_start]💸 **FinTech & Blockchain:** Quantitative modeling and automated trading strategies[cite: 33].
 
 ### 🕒 Experience
 - 💻 **3 years in Web Development** as a **Freelancer**
@@ -61,12 +62,12 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide_border=true&cacheBust=1" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&hide_border=true&cacheBust=1" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&hide_border=true&cacheBust=1" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&hide_border=true" width="90%" />
 </p>
 
 ---
