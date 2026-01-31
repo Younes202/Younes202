@@ -94,7 +94,6 @@ I enjoy turning data into actionable insights and deploying real-world productio
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&theme=default&hide_border=true" height="160"/>
