@@ -28,11 +28,7 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ---
 
 
-# Certificates
-[View my certificates](https://github.com/Younes202/Software-Devloper-Younes/tree/master/Certificates)
-
-
-# Last Recent 8 Projects
+# Last Recent Projects
 Owner avatar
 Socio-Economic-Housing
 
