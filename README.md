@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍)
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/0dadfc81-d41a-4cb2-9049-aedec895be15" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/163a8562-e31d-4581-aae5-9d2acad43d3a" /># ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍)
 
 ## About Me
 
@@ -33,6 +33,14 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 
 
 # Last Recent 8 Projects
+Owner avatar
+Socio-Economic-Housing
+
+[Quant System BTC](https://github.com/Younes202/QuantSystemBTC) (Ongoing) 
+
+[Socio Economic Issues and The impact of Housing Prices, Boston USA](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston) 🇺🇸
+
+[CPU FORECSTING Nethrland Bank](https://github.com/Younes202/CPU-FORECSTING) 
 
 [Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok) 🇳🇵
 
