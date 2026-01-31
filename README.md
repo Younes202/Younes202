@@ -9,31 +9,32 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ---
 
 ## 📊 Performance & Analysis Stats
-*Direct impact metrics from my Machine Learning & Financial Engineering models:*
+*Direct impact metrics from my recent Machine Learning & Financial Engineering models:*
 
 | Metric | Value | Impact |
 | :--- | :--- | :--- |
-| **Prediction Accuracy** | **+56% Improvement** | [cite_start]Optimized via Ensemble Learning (Random Forest) [cite: 31, 33] |
-| **Directional Accuracy** | **51.95%** | [cite_start]Achieved in Binary Classification for NQ100 futures [cite: 134, 135] |
-| **Multi-Class Accuracy** | **65.80%** | [cite_start]Overall accuracy in market trend categorization [cite: 142] |
-| **Buy Signal Win Rate** | **55.9%** | [cite_start]Statistical edge found in high-conviction trade setups [cite: 140] |
+| **Prediction Accuracy** | **+56% Improvement** | Optimized via Ensemble Learning (Random Forest) |
+| **Directional Accuracy** | **51.95%** | Achieved in Binary Classification for NQ100 futures |
+| **Multi-Class Accuracy** | **65.80%** | Overall accuracy in market trend categorization |
+| **Buy Signal Win Rate** | **55.9%** | Statistical edge found in high-conviction trade setups |
 
 ---
 
 ### 🎓 Education
-- [cite_start]📊 **Master's in Financial Engineering** (AI in Finance) [cite: 4]
+- 📊 **Master's in Financial Engineering** (AI in Finance)
 - 🎓 **Bachelor's in IT Systems Engineering**
 - 📚 **Self-taught programmer** with a deep curiosity for emerging tech
 - 🏆 **10+ professional certificates** in Data Science, AI, Blockchain, and FinTech
 
 ### 🛠️ Expertise
-- [cite_start]🤖 **Machine Learning & AI:** LASSO Regression, Principal Component Analysis (PCA), and Classification Trees[cite: 31].
-- [cite_start]📈 **Data Analysis & Visualization:** Power BI Storytelling, Feature Selection, and Regularization[cite: 46, 51].
+- 🤖 **Machine Learning & AI:** LASSO Regression, Principal Component Analysis (PCA), and Classification Trees.
+- 📈 **Data Analysis & Visualization:** Power BI Storytelling, Feature Selection, and Regularization.
 - 🐍 **Web Development:** Django, Flask, FastAPI, and Python-based frameworks.
-- [cite_start]💸 **FinTech & Blockchain:** Quantitative modeling and automated trading strategies[cite: 33].
+- 💸 **FinTech & Blockchain:** Quantitative modeling and automated trading strategies.
 
 ### 🕒 Experience
-- 💻 **3 years in Web Development** as a **Freelancer** - 📊 **1 year in Data Science & AI Applications** at **FintechFusion**
+- 💻 **3 years in Web Development** as a **Freelancer**
+- 📊 **1 year in Data Science & AI Applications** at **FintechFusion**
 
 ### 🤝 Affiliations
 - 🏢 **Shareholder at FintechFusion (Emirates)** – Focused on developing intelligent trading bots by merging Data Science and Financial Engineering solutions.
@@ -43,10 +44,10 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ## 📂 Last Recent Projects
 
 ### 📈 Quantitative Finance & Trading
-- **[Quant System BTC](https://github.com/Younes202/QuantSystemBTC)** (Ongoing) 
-- **[Backtesting Framework](https://github.com/Younes202/Backtester-Framework)** 📊💡 
-- **[Trading Opportunity Analysis and Telegram Alerts](https://github.com/Younes202/TelegramBot-Alerts-Decision)** 📈📲 
-- **[Live-Trading Bot Linked with Binance](https://github.com/Younes202/LiveTradingBot)** 🚀💰 
+- **[Quant System BTC](https://github.com/Younes202/QuantSystemBTC)** (Ongoing)
+- **[Backtesting Framework](https://github.com/Younes202/Backtester-Framework)** 📊💡
+- **[Trading Opportunity Analysis and Telegram Alerts](https://github.com/Younes202/TelegramBot-Alerts-Decision)** 📈📲
+- **[Live-Trading Bot Linked with Binance](https://github.com/Younes202/LiveTradingBot)** 🚀💰
 
 ### 🌍 Global Data Science Portfolio
 - 🇺🇸 **[Socio Economic Housing - Boston, USA](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston)**
@@ -61,12 +62,12 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide=html&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide=html&langs_count=10&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&hide=stars,prs,issues,contribs" alt="General Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs" alt="General Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
