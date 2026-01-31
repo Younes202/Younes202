@@ -40,7 +40,7 @@ Socio-Economic-Housing
 
 [Socio Economic Issues and The impact of Housing Prices, Boston USA](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston) 🇺🇸
 
-[CPU FORECSTING Nethrland Bank](https://github.com/Younes202/CPU-FORECSTING) 
+[CPU FORECSTING Nethrland Bank](https://github.com/Younes202/CPU-FORECSTING) 🇳🇱
 
 [Prediction of Earthquake Damage in Kavrepalanchok, Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok) 🇳🇵
 
