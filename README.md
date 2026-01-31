@@ -63,7 +63,6 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 
 
 
-
 <p align="center">
   <!-- Most Used Languages -->
   <img src="https://github-stats-ten-delta.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide_border=true" width="45%" />
@@ -83,12 +82,9 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 </p>
 
 <p align="center">
-  <!-- Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Younes202&theme=darkhub&no-frame=true&margin-w=10" width="90%" />
+  <!-- GitHub Metrics (SVG dashboard) -->
+  <img src="https://raw.githubusercontent.com/Younes202/Younes202/main/github-metrics.svg" width="90%" />
 </p>
-
-
-
 
 ---
 
