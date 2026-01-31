@@ -94,14 +94,13 @@ I enjoy turning data into actionable insights and deploying real-world productio
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact" height="160"/>
-</p>
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide_border=true" height="160"/>
 </p>
+
 
 ---
 
