@@ -1,85 +1,91 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;Quantitative+Finance+Analyst+📊;FinTech+Data+Scientist+🐍)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍;Quantitative+Finance+Analyst+📈)
 
 ## 🚀 About Me
 
-I am **Younes Sghyer**, a **Quantitative Finance Analyst** and **FinTech Data Scientist** specializing in the intersection of AI and Financial Markets. As a shareholder at **FintechFusion (Emirates)**, I lead the development of intelligent trading systems that merge deep data science with scalable backend architectures.
+Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Python Backend Developer** 🐍, and tech enthusiast driven by the future of **AI** 🤖 and **FinTech** 💸.
 
-- 📈 **Master's in Financial Engineering** (Focus: AI in Finance)
-- 🏢 **Shareholder & Lead Developer** @ FintechFusion
-- 🌍 **International Impact:** Managed projects across USA, KSA, Morocco, and the UAE.
-- 🤖 **Expertise:** High-Frequency Trading Bots, Sentiment Analysis, and Risk Management (VaR/CVaR).
+I specialize in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models 📊, creating web applications 🐍, or exploring new technologies 🔍, I am always looking for innovative ways to solve real-world problems.
 
 ---
 
-## 📊 Quant & Analysis Stats (New)
-*Performance metrics from my current trading systems and data audits:*
+## 📊 Performance & Analysis Stats (New)
+*Quantified impact from my recent Machine Learning & Financial Engineering audits:*
 
 | Metric | Value | Impact |
 | :--- | :--- | :--- |
-| **Model Precision Improvement** | +56% | Transition from Single Tree to Random Forest Ensemble |
-| **Prediction Accuracy** | 85-92% | Reached on Bitcoin Sentiment Analysis models |
-| **Risk Reduction** | -15% | Achieved via CVaR-optimized allocation strategies |
-| **Data Processing** | 100k+ | Real-time points/sec via FastAPI & SQL backends |
+| **Model Precision Improvement** | **+56%** | Optimized BTC Daily Return predictions using Ensemble methods |
+| **Error Reduction (MSE)** | **0.000235 → 0.000103** | Transition from Single Tree to Random Forest Regressors |
+| **Risk Mitigation (VaR)** | **-15%** | Applied CVaR models to reduce simulated crypto portfolio exposure |
+| **System Throughput** | **100k+ points/sec** | Real-time sentiment processing via FastAPI & SQL backends |
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🎓 Education
+- 📊 **Master's in Financial Engineering** (AI in Finance) - WorldQuant University
+- 🎓 **Bachelor's in IT Systems Engineering** - SupMTI Engineering School
+- 📚 **Self-taught programmer** with a deep curiosity for emerging tech
+- 🏆 **10+ professional certificates** in Data Science, AI, Azure, Blockchain, and FinTech
 
-### 📈 Quantitative & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Backtesting](https://img.shields.io/badge/Backtesting-FF6F61?style=for-the-badge)
-![Risk Management](https://img.shields.io/badge/Risk_Mgmt-4B0082?style=for-the-badge)
+## 🛠️ Expertise
+- 🤖 **Machine Learning & AI:** Supervised/Unsupervised Learning, Neural Networks, Ensemble Methods.
+- 📈 **Data Analysis & Visualization:** Power BI (Storytelling), Matplotlib, Seaborn, Tableau.
+- 🐍 **Web Development:** Django, Flask, FastAPI, Python-based frameworks for scalable backends.
+- 💸 **FinTech & Blockchain:** Quantitative modeling, Trading algorithms, Smart Contract logic.
 
-### 🐍 Data Science & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+## 🕒 Experience
+- 💻 **3 years in Web Development** as a **Freelancer** — Building custom digital solutions and backend architectures.
+- 📊 **1 year in Data Science & AI Applications** at **FintechFusion** — Architecting automated trading signals and financial dashboards.
 
----
-
-## 📂 Featured Financial Projects
-
-### 💰 [Quant System BTC](https://github.com/Younes202/QuantSystemBTC) 
-*Advanced framework for Bitcoin price prediction using Ensemble Learning and sentiment tracking.*
-
-### 📊 [Backtesting Framework](https://github.com/Younes202/Backtester-Framework)
-*A professional-grade environment for evaluating optimal trading strategies with slippage and commission modeling.*
-
-### 🤖 [Live-Trading Bot (Binance)](https://github.com/Younes202/LiveTradingBot)
-*Real-time execution engine linked via WebSockets to Binance API for high-frequency signal execution.*
+## 🤝 Affiliations
+- 🏢 **Shareholder at FintechFusion (Emirates)** – Focused on developing intelligent trading bots by merging Data Science and Financial Engineering solutions to maximize Alpha and manage risk.
 
 ---
 
-## 🌍 Global Data Science Portfolio
-*A collection of my socio-economic and environmental predictive models.*
+## 📂 Last Recent Projects
 
-- 🇺🇸 **USA:** [Housing Prices & Socio-Economic Impact](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston)
-- 🇳🇱 **Netherlands:** [CPU Forecasting for Banking Infrastructure](https://github.com/Younes202/CPU-FORECSTING)
-- 🇳🇵 **Nepal:** [Earthquake Damage Prediction](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok)
-- 🇹🇿 **Tanzania:** [Air Quality Time-Series Analysis](https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-)
-- 🇦🇷 **Argentina:** [Real Estate Pricing in Buenos Aires](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires)
+### 📈 Quantitative Finance & Trading
+- **[Quant System BTC](https://github.com/Younes202/QuantSystemBTC)** (Ongoing) – Advanced framework for Bitcoin price prediction using ML.
+- **[Backtesting Framework](https://github.com/Younes202/Backtester-Framework)** 📊💡 – Professional environment for evaluating optimal trading strategies.
+- **[Live-Trading Bot (Binance)](https://github.com/Younes202/LiveTradingBot)** 🚀💰 – Automated execution engine linked with Binance API.
+- **[Trading Opportunity Analysis & Telegram Alerts](https://github.com/Younes202/TelegramBot-Alerts-Decision)** 📈📲 – Real-time decision support system.
+
+### 🌍 Global Data Science Portfolio
+- 🇺🇸 **[Socio Economic Housing - Boston, USA](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston)** – Impact analysis of housing prices.
+- 🇳🇱 **[CPU FORECASTING - Netherlands Bank](https://github.com/Younes202/CPU-FORECSTING)** – Time-series forecasting for banking infrastructure.
+- 🇳🇵 **[Earthquake Damage Prediction - Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok)** – ML model for disaster impact assessment.
+- 🇹🇿 **[Air Quality Analysis - Tanzania](https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-)** – Analyzing Dar es Salaam's environmental data.
+- 🇦🇷 **[Apartment Sale Prices - Argentina](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires)** – Predictive modeling for Buenos Aires real estate.
+- 🇧🇷 **[Housing Analysis in Brazil](https://github.com/Younes202/Housing-Analysis-in-Brazil)** – Deep dive into Brazilian real estate trends.
 
 ---
 
-## 📈 GitHub Activity & Stats
+## 🛠️ Technical Skills
+
+### 📈 Data & Business Intelligence
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-FFB000.svg?style=for-the-badge) ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 🧪 Data Science & AI
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FFA500.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-4B0082.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+### 🌐 Web Development & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&theme=algolia&hide=html" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&theme=algolia&count_private=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younes202&layout=compact&theme=algolia&hide=html&langs_count=10" width="450px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true" width="91%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Younes202&show_icons=true&count_private=true&theme=algolia&hide=stars,prs,issues,contribs" width="400px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&theme=algolia&hide_border=true" width="400px"/>
 </p>
 
 ---
 
-## 📫 Get in Touch
+## 📫 Connect with Me
 - 💼 **LinkedIn:** [Younes Sghyer](https://www.linkedin.com/in/younes-sghyer)
 - 🌐 **Portfolio:** [younes202.github.io](https://younes202.github.io/Software-Devloper-Younes)
-- 📧 **Email:** [sghyeryounes@gmail.com](mailto:sghyeryounes@gmail.com)
-
----
-*Generated by the future of FinTech.*
+- 📧 **Email:** [sghyeryounes@gmail.com](mailto:sghyeryounes@gmail.com)****
