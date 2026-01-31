@@ -58,10 +58,7 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 - 🇧🇷 **[Housing Analysis in Brazil](https://github.com/Younes202/Housing-Analysis-in-Brazil)**
 
 ---
-
 ## 📈 My GitHub Stats
-
-
 
 <p align="center">
   <!-- Most Used Languages -->
@@ -82,9 +79,10 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 </p>
 
 <p align="center">
-  <!-- GitHub Metrics (SVG dashboard) -->
-  <img src="https://raw.githubusercontent.com/Younes202/Younes202/main/github-metrics.svg" width="90%" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Younes202&color=blue&style=flat-square" />
 </p>
+
 
 ---
 
