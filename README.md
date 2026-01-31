@@ -79,8 +79,7 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 </p>
 
 <p align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Younes202&color=blue&style=flat-square" />
+  <img src="https://raw.githubusercontent.com/Younes202/Younes202/main/github-metrics.svg" width="90%" />
 </p>
 
 
