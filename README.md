@@ -56,6 +56,22 @@ Socio-Economic-Housing
 
 ## Technical Skills
 
+
+### Data & BI
+
+### 📈 Data & Business Intelligence
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+- ![DAX](https://img.shields.io/badge/DAX-FFB000.svg?style=for-the-badge)
+- ![Power Query](https://img.shields.io/badge/Power%20Query-217346.svg?style=for-the-badge)
+- ![Excel](https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D.svg?style=for-the-badge)
+- ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-6A5ACD.svg?style=for-the-badge)
+- ![ETL](https://img.shields.io/badge/ETL-4682B4.svg?style=for-the-badge)
+- ![Data Warehousing](https://img.shields.io/badge/Data%20Warehouse-708090.svg?style=for-the-badge)
+
+
+
 ### Data Science
 - ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 - ![Database Management](https://img.shields.io/badge/Database%20Management-003B57.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
@@ -74,14 +90,22 @@ Socio-Economic-Housing
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
-### DevOps
-- ![Containerization](https://img.shields.io/badge/Containerization-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-- ![Version Control](https://img.shields.io/badge/Version%20Control-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+### ☁️ Cloud, Virtualization & Deployment
+- ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+- ![Azure AI](https://img.shields.io/badge/Azure%20AI-5C2D91.svg?style=for-the-badge)
+- ![Azure Data](https://img.shields.io/badge/Azure%20Data%20Services-0089D6.svg?style=for-the-badge)
+- ![Azure ML](https://img.shields.io/badge/Azure%20Machine%20Learning-0078D4.svg?style=for-the-badge)
+- ![Virtualization](https://img.shields.io/badge/Virtualization-FF8C00.svg?style=for-the-badge)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-### Other Skills
-- ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
-- ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-FF6347.svg?style=for-the-badge&logo=Microsoft%20Teams&logoColor=white)
-- ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF4500.svg?style=for-the-badge&logo=Wolfram%20Mathematica&logoColor=white)
+### 🤝 Collaboration & Project Management
+- ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+- ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+- ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub%20Projects-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Agile](https://img.shields.io/badge/Agile-Scrum-FF6F61.svg?style=for-the-badge)
+
 
 ### Languages
 - ![Arabic](https://img.shields.io/badge/Arabic-Native-5C33FF.svg?style=flat-square&logo=Arabic&logoColor=white)
