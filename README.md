@@ -55,49 +55,28 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 ## 📈 My GitHub Stats
 
 
-
 <p align="center">
-
   <!-- Most Used Languages -->
-
   <img src="https://github-stats-ten-delta.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide_border=true" width="45%" />
 
-
-
   <!-- General Stats -->
-
   <img src="https://github-stats-ten-delta.vercel.app/api?username=Younes202&show_icons=true&count_private=true&hide_border=true" width="45%" />
-
 </p>
 
-
-
 <p align="center">
-
   <!-- Streak Stats -->
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&hide_border=true&cacheBust=1" width="90%" />
-
 </p>
 
-
-
 <p align="center">
-
   <!-- Contribution Graph -->
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Younes202&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="90%" />
-
 </p>
-
-
 
 <p align="center">
-
+  <!-- Metrics Dashboard -->
   <img src="https://raw.githubusercontent.com/Younes202/Younes202/main/github-metrics.svg" width="90%" />
-
 </p>
-
 
 
 
