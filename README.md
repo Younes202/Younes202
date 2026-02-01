@@ -1,48 +1,121 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Quantitative+Researcher+📈;Financial+Engineer+(MSCFE)+📊;Bitcoin+Protocol+Analyst+₿)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=30&width=650&height=50&lines=Welcome,+I'm+Younes!+👋;I'm+a+Data+Scientist+📊;I'm+a+Web+Developer+🐍;Quantitative+Finance+Analyst+📈)
+
+
 
 ## 🚀 About Me
 
-Hi there! I'm **Younes Sghyer** – a **Quantitative Researcher** and **Financial Engineer** dedicated to finding alpha in high-volatility markets. My work sits at the intersection of **Machine Learning**, **Bitcoin Protocol Research**, and **Scalable Backend Architecture**.
 
-I specialize in building automated trading systems and risk engines that translate complex on-chain and market data into high-conviction strategies.
 
----
+Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Python Backend Developer** 🐍, and tech enthusiast driven by the future of **AI** 🤖, **FinTech** 💸. 🚀
 
-## 📊 Research Highlights & Performance
-*Proof of Work derived from my Financial Engineering research and FinTechFusion role:*
 
-| Metric | Achievement | Methodology |
-| :--- | :--- | :--- |
-| **Prediction Alpha** | **+56% Improvement** | Ensemble Learning (Random Forest) & LASSO |
-| **Trend Accuracy** | **65.80%** | Multi-class market trend categorization |
-| **Directional Accuracy** | **51.95%** | Binary Classification for NQ100 & BTC Futures |
-| **Risk Reduction** | **15% Lower Drawdown** | Automated VaR & CVaR Optimization |
+
+I specialize in building intelligent systems and scalable solutions, with a strong foundation in both data-driven decision making and clean backend architecture. Whether it's developing data models 📊, creating web applications 🐍, or exploring new technologies 🔍, I am always looking for innovative ways to solve real-world problems.
+
+
 
 ---
 
-## 📂 Core Quantitative Projects
 
-### ₿ Bitcoin & Algorithmic Trading
-- **[Quant System BTC](https://github.com/Younes202/QuantSystemBTC)** (Ongoing) – High-frequency data ingestion and alpha research.
-- **[Backtesting Framework](https://github.com/Younes202/Backtester-Framework)** 📊💡 – Statistical validation engine for multi-asset strategies.
-- **[Trading Alerts & Decision Bot](https://github.com/Younes202/TelegramBot-Alerts-Decision)** 📈📲 – Real-time execution bridge using FastAPI and Telegram.
-- **[Live-Trading Bot (Binance)](https://github.com/Younes202/LiveTradingBot)** 🚀💰 – Production-ready execution engine.
 
-### 🔬 Applied Data Science
-- 🇳🇱 **[Central Bank Forecasting](https://github.com/Younes202/CPU-FORECSTING)** – Macroeconomic time-series modeling.
-- 🇺🇸 **[Socio-Economic Modeling](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston)** – Feature selection and regularization analysis.
+## 📂 Last Recent Projects
+
+
+
+### 📈 Quantitative Finance & Trading
+
+- **[Quant System BTC](https://github.com/Younes202/QuantSystemBTC)** (Ongoing)
+
+- **[Backtesting Framework](https://github.com/Younes202/Backtester-Framework)** 📊💡
+
+- **[Trading Opportunity Analysis and Telegram Alerts](https://github.com/Younes202/TelegramBot-Alerts-Decision)** 📈📲
+
+- **[Live-Trading Bot Linked with Binance](https://github.com/Younes202/LiveTradingBot)** 🚀💰
+
+
+
+### 🌍 Global Data Science Portfolio
+
+- 🇺🇸 **[Socio Economic Housing - Boston, USA](https://github.com/Younes202/Socio-Economic-Housing-Characteristics-Boston)**
+
+- 🇳🇱 **[CPU FORECASTING - Netherlands Bank](https://github.com/Younes202/CPU-FORECSTING)**
+
+- 🇳🇵 **[Earthquake Damage Prediction - Nepal](https://github.com/Younes202/Predict-Earthquake-Damage-in-Kavrepalanchok)**
+
+- 🇹🇿 **[Air Quality Analysis - Tanzania](https://github.com/Younes202/Air-Quality-Analyzing-in-Dar-es-Salaam-)**
+
+- 🇦🇷 **[Apartment Sale Prices - Argentina](https://github.com/Younes202/Apartment-Sales-in-Buenos-Aires)**
+
+- 🇧🇷 **[Housing Analysis in Brazil](https://github.com/Younes202/Housing-Analysis-in-Brazil)**
+
+
 
 ---
 
-## 🛠️ Technical Arsenal
-- **Quant:** GARCH, ARIMA, Portfolio Optimization, Monte Carlo, PCA, LASSO.
-- **Engineering:** Python (FastAPI, NumPy, Pandas, Scikit-learn), SQL, Docker, Git.
-- **BI:** Power BI (Advanced DAX), Data Storytelling, Real-time Dashboards.
+## 📈 My GitHub Stats
 
----
 
-## 📈 Stats & Activity
+
 <p align="center">
+
+  <!-- Most Used Languages -->
+
   <img src="https://github-stats-ten-delta.vercel.app/api/top-langs/?username=Younes202&layout=compact&hide_border=true" width="45%" />
+
+
+
+  <!-- General Stats -->
+
   <img src="https://github-stats-ten-delta.vercel.app/api?username=Younes202&show_icons=true&count_private=true&hide_border=true" width="45%" />
+
 </p>
+
+
+
+<p align="center">
+
+  <!-- Streak Stats -->
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Younes202&hide_border=true&cacheBust=1" width="90%" />
+
+</p>
+
+
+
+<p align="center">
+
+  <!-- Contribution Graph -->
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Younes202&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" width="90%" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://raw.githubusercontent.com/Younes202/Younes202/main/github-metrics.svg" width="90%" />
+
+</p>
+
+
+
+
+
+
+
+
+
+---
+
+
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** [Younes Sghyer](https://www.linkedin.com/in/younes-sghyer)
+
+- 🌐 **Portfolio:** [younes202.github.io](https://younes202.github.io/Software-Devloper-Younes)
+
+- 📧 **Email:** [sghyeryounes@gmail.com](mailto:sghyeryounes@gmail.com)
+
+ 
