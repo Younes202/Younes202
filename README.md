@@ -9,9 +9,9 @@
 Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Quantative Researcher** 🐍, and tech enthusiast driven by the future of **AI** 🤖, **FinTech** 💸. 🚀
 
 I thrive at the intersection of data, finance, and technology — building reproducible workflows, designing intelligent systems, and translating complex analytics into clear, actionable insights. My journey blends academic rigor with hands‑on industry projects, where I focus on:  
-- 📈 Machine learning in finance (bias–variance tradeoff, ensemble methods, algorithmic trading).  
-- 🛠️ End‑to‑end pipelines: from raw data engineering to polished dashboards for stakeholders.  
-- 🌍 Global collaboration: working remotely across Morocco, Riyadh, and the USA, while exploring Nordic opportunities.  
+
+- 🌍 Global collaboration: working remotely across **Morocco**, **Riyadh**, and the **USA**, while embracing diverse cultures and ways of working.
+  
 - 💡 A philosophy of connecting technical contributions to human context, ensuring impact beyond code.  
 
 Always curious, always learning — I’m driven to push boundaries in AI and FinTech, and to share knowledge through open‑source contributions, workshops, and research. ✨
