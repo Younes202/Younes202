@@ -6,7 +6,7 @@
 
 
 
-Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Python Backend Developer** 🐍, and tech enthusiast driven by the future of **AI** 🤖, **FinTech** 💸. 🚀
+Hi there! I'm **Younes Sghyer** – a passionate **Data Scientist** 📊, **Quantative Researcher** 🐍, and tech enthusiast driven by the future of **AI** 🤖, **FinTech** 💸. 🚀
 
 
 
