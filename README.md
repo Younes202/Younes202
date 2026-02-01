@@ -8,18 +8,6 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 
 ---
 
-## 📊 Performance & Analysis Stats
-[cite_start]*Impact metrics derived from my MSCFE 632: Machine Learning in Finance group project[cite: 4]:*
-
-| Metric | Value | Impact |
-| :--- | :--- | :--- |
-| **Prediction Accuracy** | **+56% Improvement** | [cite_start]Optimized via Ensemble Learning (Random Forest) [cite: 31, 33] |
-| **Directional Accuracy** | **51.95%** | [cite_start]Achieved in Binary Classification for NQ100 futures [cite: 134, 135] |
-| **Multi-Class Accuracy** | **65.80%** | [cite_start]Overall accuracy in market trend categorization [cite: 142] |
-| **Buy Signal Win Rate** | **55.9%** | [cite_start]Statistical edge found in high-conviction trade setups [cite: 140] |
-
----
-
 ### 🎓 Education
 - [cite_start]📊 **Master's in Financial Engineering** (AI in Finance) [cite: 4]
 - 🎓 **Bachelor's in IT Systems Engineering**
