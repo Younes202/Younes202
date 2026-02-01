@@ -8,27 +8,6 @@ I specialize in building intelligent systems and scalable solutions, with a stro
 
 ---
 
-### 🎓 Education
-- [cite_start]📊 **Master's in Financial Engineering** (AI in Finance) [cite: 4]
-- 🎓 **Bachelor's in IT Systems Engineering**
-- 📚 **Self-taught programmer** with a deep curiosity for emerging tech
-- 🏆 **10+ professional certificates** in Data Science, AI, Blockchain, and FinTech
-
-### 🛠️ Expertise
-- [cite_start]🤖 **Machine Learning & AI:** LASSO Regression, Principal Component Analysis (PCA), and Classification Trees[cite: 31].
-- [cite_start]📈 **Data Analysis & Visualization:** Power BI Storytelling, Feature Selection, and Regularization[cite: 46, 51].
-- 🐍 **Web Development:** Django, Flask, FastAPI, and Python-based frameworks.
-- [cite_start]💸 **FinTech & Blockchain:** Quantitative modeling and automated trading strategies[cite: 33].
-
-### 🕒 Experience
-- 💻 **3 years in Web Development** as a **Freelancer**
-- 📊 **1 year in Data Science & AI Applications** at **FintechFusion**
-
-### 🤝 Affiliations
-- 🏢 **Shareholder at FintechFusion (Emirates)** – Focused on developing intelligent trading bots by merging Data Science and Financial Engineering solutions.
-
----
-
 ## 📂 Last Recent Projects
 
 ### 📈 Quantitative Finance & Trading
